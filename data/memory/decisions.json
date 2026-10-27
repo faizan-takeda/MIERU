@@ -1,0 +1,372 @@
+[
+  {
+    "id": "25db4f3b-c3b4-462e-bde9-971b31e989b6",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Takeda released its SLEEP 2026 and NEJM Phase 3 results. Scientific evidence can inform HCP learning, subject to local indication, audience and medical approval.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_EDU",
+      "DX"
+    ],
+    "createdAt": "2026-10-17T15:13:56.558Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "c1aa1709-1514-4763-8a5a-18a824c7a76a",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Takeda released its SLEEP 2026 and NEJM Phase 3 results. Scientific evidence can inform HCP learning, subject to local indication, audience and medical approval.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_EDU",
+      "DX"
+    ],
+    "createdAt": "2026-10-17T20:18:35.543Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "2a2700a6-bd20-4d12-a8d3-0d3ae1d3ef2a",
+    "product": "zasocitinib",
+    "market": "Japan",
+    "element": "diagnosis",
+    "elementTitle": "Diagnosis & referral",
+    "route": "COLLABORATE",
+    "reason": "Psoriasis severity can involve high-impact sites and quality-of-life burden, not just body surface area. Takeda published 2026 patient-context material; it is not a local referral playbook.",
+    "conditions": "Japanese Medical and patient-engagement colleagues confirm the actual diagnostic pathway and relevant specialty societies. Reviewed scope: Zasocitinib · TAK-279 / Japan.",
+    "owner": "Medical + Patient Engagement",
+    "sources": [
+      "Z_SCALP",
+      "PSO_PATIENT",
+      "AIR_ACCESS",
+      "PEOPLE"
+    ],
+    "createdAt": "2026-10-19T07:49:11.263Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "ca175355-4d21-4f6a-a68f-c3cd61fa92d4",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Takeda released its SLEEP 2026 and NEJM Phase 3 results. Scientific evidence can inform HCP learning, subject to local indication, audience and medical approval. - Done Faizan..",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_EDU",
+      "DX"
+    ],
+    "createdAt": "2026-10-19T08:41:17.037Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "6c2be0ec-51c0-4702-9942-daa8c9d6a704",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Takeda released its SLEEP 2026 and NEJM Phase 3 results. Scientific evidence can inform HCP learning, subject to local indication, audience and medical approvaED BY fAIZAN",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_EDU",
+      "DX"
+    ],
+    "createdAt": "2026-10-19T08:45:08.500Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "453b0ed9-bcbe-4cb7-81db-fc83feb58969",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-25T10:44:15.067Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "a9d36e68-a81b-4a97-97e6-ae5f834dcd3c",
+    "product": "oveporexton",
+    "market": "Japan",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "Confirm Japanese approved claims, medical-review controls, format, translation, channel and intended HCP audience. Reviewed scope: ORZEYFUL · oveporexton / Japan.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_JP",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-25T10:56:38.822Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "c0a2ecda-46b8-40bb-a090-beb6f51f68ea",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-25T16:24:30.393Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "380a0c92-791d-4a18-a77a-929dd984b841",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-25T18:22:28.763Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "1ba78b83-9c6e-4bff-80e2-eb094a3535ba",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-26T08:23:57.105Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "0ada1aa9-d749-4160-8758-9665c1d927c9",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-26T08:54:47.192Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "bc29ca29-af49-43a1-b324-94f63c4949c5",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-26T09:55:27.230Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "3afb6ff1-2dfc-45bf-b07a-ec02b5224ef3",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-26T10:12:43.855Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "645d4716-1048-4553-8a5e-919263b3a036",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-26T10:14:34.373Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "b08b616b-f1c7-40cc-9d70-3849fbb10449",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-26T10:16:25.424Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "e5405b15-1dda-4d52-9a0a-10cbbf8b0028",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-26T10:17:16.441Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "c4bd92cc-ab9c-462f-a103-59de2fab8990",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-26T10:22:02.537Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  },
+  {
+    "id": "c2fe134f-b049-4a56-b914-c2b4f314c4f7",
+    "product": "oveporexton",
+    "market": "US",
+    "element": "hcp",
+    "elementTitle": "HCP scientific learning",
+    "route": "ADAPT",
+    "reason": "Published NT1 study results can inform HCP scientific education. Medical and Legal must approve the local audience, wording and use; the studies do not authorize a reusable field presentation.",
+    "conditions": "U.S. MLR validates USPI alignment and separates independent education, scientific exchange and promotional field use. Reviewed scope: ORZEYFUL · oveporexton / US.",
+    "owner": "Medical + Legal/Compliance",
+    "sources": [
+      "O_TRIAL",
+      "O_EDU",
+      "O_US",
+      "OCT_LAUNCH"
+    ],
+    "createdAt": "2026-10-26T10:35:06.078Z",
+    "kind": "synthetic_pilot_rehearsal",
+    "approval": "NOT APPROVED",
+    "validated": false
+  }
+]

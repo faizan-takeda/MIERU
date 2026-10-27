@@ -1,0 +1,1630 @@
+{
+ "questions": [
+  {
+   "id": "all_2",
+   "role": "All",
+   "q": "Where has Takeda already moved a proven fix from one site to others?",
+   "answer": "Three published examples: VR operator training, AI predictive maintenance and faster batch release.",
+   "insight": "Each example names its own scope. A programme that works at one set of sites is not automatically approved for yours.",
+   "action": "Find the programme owner — GSQ operator training, Digital Manufacturing or One Day Batch Release — and ask whether your site is already planned in.",
+   "refs": [
+    "VRSITES",
+    "LESSINES_AI",
+    "BATCH"
+   ],
+   "points": [
+    {
+     "t": "VR training runs at 13 sterile-filling sites on three continents — 10,000 sessions a year, up to 30% shorter training for new colleagues.",
+     "ref": "VRSITES"
+    },
+    {
+     "t": "Lessines runs 170+ AI predictive-maintenance agents across 45 systems, with extension to 20 sites planned by FY2027.",
+     "ref": "LESSINES_AI"
+    },
+    {
+     "t": "One Day Batch Release was piloted at six sites; at Singen the average vaccine release time fell from over 30 to 19 days.",
+     "ref": "BATCH"
+    }
+   ]
+  },
+  {
+   "id": "all_4",
+   "role": "All",
+   "q": "How does MIERU help me avoid redoing work another team already did?",
+    "answer": "The pilot brings public precedents and locally saved rehearsal decisions into one review. It does not search all Takeda work or establish that an internal asset is reusable.",
+    "insight": "The value to test is fewer repeated evidence reviews and clearer handovers, not another repository. Public sources do not establish a company-wide decision-memory gap.",
+    "action": "Before commissioning work, check existing internal tools and owners; use a bounded pilot to measure whether a scoped decision record improves the next review.",
+   "refs": [
+    "AIR_PEOPLE",
+    "DIGITAL",
+    "PEOPLE_MENTOR"
+   ],
+   "points": [
+    {
+    "t": "The 2026 report states 63% of employees actively use generative AI. Adoption does not measure search quality, decision reuse or MIERU benefit.",
+     "ref": "AIR_PEOPLE"
+    },
+    {
+    "t": "Takami is building standardized processes and enterprise data; its public description does not inventory all existing decision-record capabilities.",
+    "ref": "DIGITAL"
+    },
+    {
+    "t": "Takeda describes mentoring and reverse mentoring as ways to exchange expertise, without measuring how all organizational knowledge travels.",
+     "ref": "PEOPLE_MENTOR"
+    }
+   ]
+  },
+  {
+   "id": "legal_1",
+   "role": "Legal",
+   "q": "Can Japan ORZEYFUL medical materials be used unchanged in China?",
+    "answer": "Not without local review. Japan and China have different approved populations; common scientific content may still be usable within the receiving label.",
+    "insight": "The decision is which claims and assets remain valid, not whether every slide must be rebuilt. A shared adult population does not remove local review requirements.",
+   "action": "Route every cross-border material through local Medical and Legal review against the current national label.",
+   "refs": [
+    "O_CN",
+    "O_JP",
+    "ETHICS"
+   ],
+   "points": [
+    {
+     "t": "China's approval covers adults and adolescents aged 16 and over.",
+     "ref": "O_CN"
+    },
+    {
+     "t": "Japan's approval covers adults with NT1.",
+     "ref": "O_JP"
+    },
+    {
+    "t": "Takeda's governance commitments include ethical conduct and personal-data protection; this page does not approve a specific material transfer.",
+     "ref": "ETHICS"
+    }
+   ]
+  },
+  {
+   "id": "legal_2",
+   "role": "Legal",
+   "q": "How do Takeda's partnership rights differ by geography and product?",
+   "answer": "Each agreement sets its own territory and product scope — rights never extend automatically.",
+   "insight": "Familiarity with a brand is not permission: territory and product scope come from the agreement.",
+   "action": "Confirm territory, product and permitted activities with Legal before any team plans work on a partnered asset.",
+   "refs": [
+    "INNOVENT_OCT",
+    "INNOVENT",
+    "HAO"
+   ],
+   "points": [
+    {
+     "t": "Innovent rights cover investigational oncology assets outside Greater China.",
+     "ref": "INNOVENT_OCT"
+    },
+    {
+    "t": "IBI363 has U.S. co-commercialization and exclusive commercialization outside the U.S. and Greater China; IBI343 has exclusive rights outside Greater China.",
+     "ref": "INNOVENT"
+    },
+    {
+     "t": "The Halozyme ENHANZE licence covers vedolizumab (ENTYVIO) only, not unrelated products.",
+     "ref": "HAO"
+    }
+   ]
+  },
+  {
+   "id": "legal_3",
+   "role": "Legal",
+   "q": "What safeguards should apply before employee voices cross borders?",
+    "answer": "Confirm purpose, lawful basis, data minimization, access controls and transfer rules with Privacy/Legal before sharing identifiable employee input.",
+    "insight": "Consent is not automatically the appropriate employment-data basis, and redaction alone may not prevent identification. Local review must determine the applicable safeguards.",
+    "action": "Have Privacy/Legal, HR and DD&T agree the required impact assessments, retention and transfer controls before processing real employee input.",
+   "refs": [
+    "DX",
+    "ETHICS"
+   ],
+   "points": [
+    {
+    "t": "Takeda describes Responsible AI principles and human oversight in its digital strategy; the public page does not publish the detailed employee-data approval process.",
+    "ref": "DX"
+    },
+    {
+    "t": "The Code of Conduct commitments include protecting personal data and responsible innovation; a particular transfer's lawful basis must be assessed separately.",
+     "ref": "ETHICS"
+    }
+   ]
+  },
+  {
+   "id": "legal_4",
+   "role": "Legal",
+   "q": "Can independent medical education content be reused for promotion?",
+    "answer": "A grant does not confer promotional reuse rights. Any proposed use needs rights-holder permission and independent local Medical/Legal review.",
+    "insight": "Independent education must remain free of sponsor influence. Public access to content is neither a licence nor an approved promotional claim.",
+    "action": "Keep grant governance separate from promotion; verify copyright, grant terms, fair balance and local label before considering any material use.",
+   "refs": [
+    "IMED",
+    "ETHICS"
+   ],
+   "points": [
+    {
+     "t": "Takeda describes independent medical education as fair-balanced and not sponsor-influenced.",
+     "ref": "IMED"
+    },
+    {
+     "t": "The Code of Conduct and responsible-innovation commitments apply to all content use.",
+     "ref": "ETHICS"
+    }
+   ]
+  },
+  {
+   "id": "hr_1",
+   "role": "HR",
+   "q": "What supports career learning today, and what is missing for handovers?",
+    "answer": "Takeda publishes learning and mentoring routes. Whether a receiving colleague can retrieve decision rationale is a handover question to test, not an established company-wide gap.",
+    "insight": "For HR and function leaders, the useful measure is continuity of decisions after a role change, not simply participation in learning tools.",
+   "action": "Add a short decision-handover step to role changes and test it with one function.",
+   "refs": [
+    "CAREERS",
+    "PEOPLE_DIGITAL",
+    "MENTOR2025"
+   ],
+   "points": [
+    {
+     "t": "Career Navigator supports role discovery, learning and mentoring, and Bloom offers structured learning.",
+     "ref": "CAREERS"
+    },
+    {
+     "t": "Over half the workforce engaged in digital learning in 2025, and 5,000+ learners used Everyday AI.",
+     "ref": "PEOPLE_DIGITAL"
+    },
+    {
+     "t": "Takeda publishes mentorship as a way to share expertise and widen opportunities.",
+     "ref": "MENTOR2025"
+    }
+   ]
+  },
+  {
+   "id": "hr_2",
+   "role": "HR",
+   "q": "Has Takeda shown employee participation across geographies?",
+   "answer": "Yes — at scale, through CSR voting and employee-led Resource Groups.",
+   "insight": "Employees already take part across borders when given a clear channel — the precondition for collecting voices well.",
+   "action": "Use these existing channels as models for how to invite and acknowledge employee input.",
+   "refs": [
+    "CSR",
+    "AIR_PEOPLE"
+   ],
+   "points": [
+    {
+     "t": "More than 20,000 employees across 80 countries and regions voted on the 2025 CSR collaborations.",
+     "ref": "CSR"
+    },
+    {
+     "t": "One in five employees belonged to one of 11 Takeda Resource Groups in FY2025.",
+     "ref": "AIR_PEOPLE"
+    }
+   ]
+  },
+  {
+   "id": "hr_3",
+   "role": "HR",
+   "q": "What practical know-how can HR help preserve during role changes?",
+    "answer": "Preserve the decision, alternatives considered, rationale, scope and next review date alongside existing handover and mentoring practices.",
+    "insight": "Test whether this reduces reopened questions. The public sources do not show that existing HR tools or mentoring fail to retain decision reasoning.",
+   "action": "Pilot a one-page decision record at real handovers and check whether the next owner reopens the same questions.",
+   "refs": [
+    "CAREERS",
+    "PEOPLE_MENTOR"
+   ],
+   "points": [
+    {
+    "t": "Takeda's career-growth page describes learning and mentoring routes; it does not assess the completeness of decision handovers.",
+    "ref": "CAREERS"
+    },
+    {
+    "t": "R&D leadership describes mentoring and reverse learning as examples of knowledge exchange, not a complete map of handover mechanisms.",
+     "ref": "PEOPLE_MENTOR"
+    }
+   ]
+  },
+  {
+   "id": "hr_4",
+   "role": "HR",
+   "q": "How can site and office colleagues share concerns fairly?",
+   "answer": "Through confidential, structured channels — Takeda already runs some at scale.",
+   "insight": "Confidentiality is what makes frontline colleagues willing to speak; any new voice channel must protect it.",
+   "action": "Design any voice collection with HR and Ethics & Compliance: anonymity, minimum group size and a clear response route.",
+   "refs": [
+    "PEOPLE_AU",
+    "VALUES_NETWORK",
+    "ETHICS"
+   ],
+   "points": [
+    {
+     "t": "Great Place to Work certification across 25 countries is based on a confidential employee survey.",
+     "ref": "PEOPLE_AU"
+    },
+    {
+     "t": "Over 2,100 Values Ambassadors in 60+ countries encourage values-based decisions locally.",
+     "ref": "VALUES_NETWORK"
+    },
+    {
+     "t": "The Code of Conduct and personal-data protection govern how employee information is handled.",
+     "ref": "ETHICS"
+    }
+   ]
+  },
+  {
+   "id": "market_access_1",
+   "role": "Market Access",
+   "q": "What access lessons apply before an EU ORZEYFUL launch?",
+    "answer": "Prepare country-specific diagnosis and payer evidence in parallel. EU authorization is not established in the 16 October dossier; national access decisions remain separate.",
+   "insight": "EU teams can learn which payer and diagnosis questions first markets faced — the price and evidence package stay local.",
+   "action": "Ask Japan and China access teams which questions payers and specialists raised, before building the EU plan.",
+   "refs": [
+    "OCT_LAUNCH",
+    "AIR_ACCESS",
+    "PATIENT_DATA"
+   ],
+   "points": [
+    {
+     "t": "Japan and China launched on 15 October 2026; an EU approval is not established.",
+     "ref": "OCT_LAUNCH"
+    },
+    {
+     "t": "Takeda's 2026 report lists disease awareness, screening and diagnosis among the access barriers it works on.",
+     "ref": "AIR_ACCESS"
+    },
+    {
+    "t": "Takeda describes a European patient-reported outcomes initiative that can inform evidence planning; it does not establish ORZEYFUL reimbursement in any country.",
+    "ref": "PATIENT_DATA"
+    }
+   ]
+  },
+  {
+   "id": "market_access_2",
+   "role": "Market Access",
+   "q": "Can Japan and China ORZEYFUL launch work be reused for US access?",
+    "answer": "Reuse review questions and applicable clinical evidence. U.S. pricing, payer requirements, distribution and approved claims need their own validation.",
+   "insight": "US access runs through specialty pharmacy, payer policy and scheduling — different from both first markets.",
+    "action": "Collect first-market payer questions, assess which global evidence is applicable, and close U.S.-specific gaps before committing access spend.",
+   "refs": [
+    "OCT_LAUNCH",
+    "O_US",
+    "PATIENT_DATA"
+   ],
+   "points": [
+    {
+     "t": "Japan and China became available on 15 October 2026; reimbursement terms elsewhere are not established.",
+     "ref": "OCT_LAUNCH"
+    },
+    {
+     "t": "US availability depended on DEA scheduling after FDA approval.",
+     "ref": "O_US"
+    },
+    {
+     "t": "Takeda describes patient-reported outcomes as part of the evidence used in health decisions.",
+     "ref": "PATIENT_DATA"
+    }
+   ]
+  },
+  {
+   "id": "market_access_3",
+   "role": "Market Access",
+   "q": "Which patient-pathway gaps matter for narcolepsy type 1?",
+   "answer": "Diagnostic delay — patients often wait years before an NT1 diagnosis.",
+   "insight": "If patients are not diagnosed, reimbursement alone will not reach them — the pathway is part of access.",
+   "action": "Map local referral to sleep specialists with Medical and patient groups before finalising the access plan.",
+   "refs": [
+    "O_JP",
+    "PEOPLE",
+    "PATIENT_NT1"
+   ],
+   "points": [
+    {
+     "t": "Japan's approval announcement notes long diagnostic delay and disease-awareness challenges.",
+     "ref": "O_JP"
+    },
+    {
+     "t": "Takeda works with patients, caregivers and advocacy groups on delay to diagnosis.",
+     "ref": "PEOPLE"
+    },
+    {
+     "t": "A 2026 Takeda account describes a physician's lived experience of narcolepsy.",
+     "ref": "PATIENT_NT1"
+    }
+   ]
+  },
+  {
+   "id": "market_access_4",
+   "role": "Market Access",
+   "q": "What can we learn from Takeda's Indonesia access collaboration?",
+   "answer": "How a country partnership is phased and licensed — not a model to copy elsewhere.",
+   "insight": "The transferable lesson is the structure — phasing, licensing, partners — not the investment or terms.",
+   "action": "Ask the Indonesia team how the phases were defined before proposing a partnership in another country.",
+   "refs": [
+    "INDO",
+    "ACCESS2026"
+   ],
+   "points": [
+    {
+     "t": "Takeda and Indonesia announced a licensed, phased plasma-network initiative with planned investment of up to US$30m.",
+     "ref": "INDO"
+    },
+    {
+     "t": "Takeda says access in different settings needs tailored partnerships.",
+     "ref": "ACCESS2026"
+    }
+   ]
+  },
+  {
+   "id": "drug_launch_1",
+   "role": "Drug launch",
+   "q": "Before a US ORZEYFUL launch, what is already known?",
+   "answer": "FDA approval for adults with NT1, a planned launch after DEA scheduling, and peer-reviewed Phase 3 evidence.",
+   "insight": "The US team can start from shared evidence and first-market experience; scheduling, access and claims are US-specific.",
+   "action": "Confirm DEA status, specialty-pharmacy set-up and US claim review before activating field plans.",
+   "refs": [
+    "O_US",
+    "OCT_LAUNCH",
+    "O_TRIAL"
+   ],
+   "points": [
+    {
+     "t": "The FDA approved ORZEYFUL for adults with narcolepsy type 1 on 5 August 2026.",
+     "ref": "O_US"
+    },
+    {
+     "t": "The US launch was planned for the month after Japan and China (15 October 2026), following DEA scheduling.",
+     "ref": "OCT_LAUNCH"
+    },
+    {
+     "t": "Phase 3 NT1 results were peer-reviewed and published in September 2026.",
+     "ref": "O_TRIAL"
+    }
+   ]
+  },
+  {
+   "id": "drug_launch_2",
+   "role": "Drug launch",
+   "q": "What is different between a US rusfertide launch and a psoriasis launch?",
+    "answer": "MIMRYLO has U.S. approval for adult PV erythrocytosis; zasocitinib remains investigational in the dossier. Their evidence, care pathways and investment timing differ.",
+    "insight": "Share launch-governance and readiness methods, but keep eligibility, uptake assumptions and product claims separate. Neither approval nor trial efficacy proves payer access.",
+    "action": "Use separate regulatory, access and supply scenarios for each asset; compare common workstreams before commissioning duplicate analysis.",
+   "refs": [
+    "R_US",
+    "Z_FDA",
+    "ZASO_H2H"
+   ],
+   "points": [
+    {
+     "t": "MIMRYLO is FDA-approved for erythrocytosis in adults with polycythemia vera.",
+     "ref": "R_US"
+    },
+    {
+     "t": "Zasocitinib is under FDA priority review with a Q1 2027 target.",
+     "ref": "Z_FDA"
+    },
+    {
+     "t": "Zasocitinib's head-to-head data (36.5% vs 13.9% PASI 100) are trial evidence, not approved claims.",
+     "ref": "ZASO_H2H"
+    }
+   ]
+  },
+  {
+   "id": "drug_launch_3",
+   "role": "Drug launch",
+   "q": "What parts of a first launch should be checked before rebuilding them?",
+    "answer": "Check existing readiness plans, evidence reviews and first-market lessons before commissioning replacements. Advance GSQ preparation does not prove that a reusable asset is available.",
+    "insight": "A checklist can reduce repeated planning; site qualification, release arrangements and capacity must still match the medicine and receiving market.",
+   "action": "Ask GSQ what is already qualified for your market and ask first-launch teams what they would change.",
+   "refs": [
+    "GSQ_POV",
+    "O_CN",
+    "OCT_LAUNCH"
+   ],
+   "points": [
+    {
+     "t": "Global Supply & Quality prepares launches years in advance: site qualification, testing transfer, packaging, labelling and quality agreements.",
+     "ref": "GSQ_POV"
+    },
+    {
+     "t": "China's label population differs from the US, so medical materials cannot simply be copied.",
+     "ref": "O_CN"
+    },
+    {
+     "t": "Japan and China launched on the same day, so two first-launch teams hold fresh lessons.",
+     "ref": "OCT_LAUNCH"
+    }
+   ]
+  },
+  {
+   "id": "drug_launch_4",
+   "role": "Drug launch",
+   "q": "What did the Japan and China ORZEYFUL launches establish, exactly?",
+   "answer": "Commercial availability in both countries on 15 October 2026 — not reimbursement terms or reusable materials.",
+   "insight": "Knowing exactly what was established prevents next markets from assuming more than the evidence shows.",
+   "action": "Ask the two first-launch teams for their lessons; treat any material as needing local approval.",
+   "refs": [
+    "OCT_LAUNCH",
+    "JAPAN_LAUNCH",
+    "O_CN"
+   ],
+   "points": [
+    {
+     "t": "ORZEYFUL became commercially available in Japan and China on 15 October 2026.",
+     "ref": "OCT_LAUNCH"
+    },
+    {
+     "t": "Takeda Japan's announcement does not supply local marketing materials or reimbursement details.",
+     "ref": "JAPAN_LAUNCH"
+    },
+    {
+     "t": "China's approval includes adolescents aged 16 and over.",
+     "ref": "O_CN"
+    }
+   ]
+  },
+  {
+   "id": "cfo_1",
+   "role": "CFO",
+   "q": "Where might duplicate launch spending hide?",
+    "answer": "Potential overlap sits in separately commissioned evidence reviews, agency briefs and readiness tools. Public financial guidance does not quantify duplicate launch spending.",
+   "insight": "Three launches across many markets multiply the same decisions; no source attributes spend to duplication, so measure before claiming.",
+    "action": "Have Finance and IBU/market launch leads compare scopes and purchase orders; count only demonstrably avoided cost net of adaptation, review and platform costs.",
+   "refs": [
+    "FY26GUIDE",
+    "FY26UPDATE",
+    "AIR_LAUNCH"
+   ],
+   "points": [
+    {
+    "t": "The May outlook forecast FY2026 Core Operating Profit of JPY 1,160.0bn and a 5-8% decline at constant exchange rates. These are non-IFRS forecasts, not measured duplicate spend.",
+     "ref": "FY26GUIDE"
+    },
+    {
+    "t": "The 5 June correction changed FY2025 reported results, not Core results or FY2026 guidance. Check subsequent guidance before using these forecasts in a decision.",
+    "ref": "FY26UPDATE"
+    },
+    {
+     "t": "Takeda expects to launch three transformative medicines in 2026 and 2027.",
+     "ref": "AIR_LAUNCH"
+    }
+   ]
+  },
+  {
+   "id": "cfo_2",
+   "role": "CFO",
+   "q": "Which near-term assets need distinct investment assumptions?",
+   "answer": "All three: ORZEYFUL, MIMRYLO and zasocitinib are at different regulatory stages.",
+   "insight": "Applying one uptake curve to all three would mix an approved product with an investigational one.",
+   "action": "Model each asset by its own approval status and access route, market by market.",
+   "refs": [
+    "OCT_LAUNCH",
+    "R_US",
+    "Z_FDA"
+   ],
+   "points": [
+    {
+     "t": "ORZEYFUL is available in Japan and China, with the US launch after DEA scheduling.",
+     "ref": "OCT_LAUNCH"
+    },
+    {
+    "t": "MIMRYLO has U.S. FDA approval; approval in other markets is not established by the cited release.",
+     "ref": "R_US"
+    },
+    {
+     "t": "Zasocitinib is investigational, with an FDA target of Q1 2027.",
+     "ref": "Z_FDA"
+    }
+   ]
+  },
+  {
+   "id": "cfo_3",
+   "role": "CFO",
+   "q": "What financial commitment shows why local context matters?",
+    "answer": "Innovent illustrates why an asset model must separate territories, shared economics and optional rights, not assume one global margin or commercialization model.",
+    "insight": "IBI363 has U.S. co-commercialization; IBI343 has exclusive rights outside Greater China. The IBI3001 option is not the same as an exercised licence.",
+   "action": "Check territory and milestone structure before assuming any partnered asset can be planned in your market.",
+   "refs": [
+    "INNOVENT_OCT",
+    "INNOVENT"
+   ],
+   "points": [
+    {
+    "t": "The agreement announced rights to IBI363 and IBI343 outside Greater China and an option for IBI3001; an option is not an exercised licence.",
+     "ref": "INNOVENT_OCT"
+    },
+    {
+    "t": "At closing, Takeda disclosed US$1.2bn upfront, including US$100m equity. That commitment is distinct from future contingent payments and product revenue.",
+     "ref": "INNOVENT"
+    }
+   ]
+  },
+  {
+   "id": "cfo_4",
+   "role": "CFO",
+   "q": "What would count as evidence of a MIERU productivity benefit?",
+   "answer": "A measured before-and-after on real decisions — not a share of company profit or a borrowed figure.",
+   "insight": "None of these figures was produced by MIERU and they cannot be added together into a saving.",
+    "action": "Compare matched reviews on cycle time, decision quality and rework; have Finance validate avoided external spend net of adaptation and running costs, without double-counting staff time.",
+   "refs": [
+    "VRSITES",
+    "BATCH",
+    "FY26GUIDE"
+   ],
+   "points": [
+    {
+     "t": "Published Takeda outcomes keep their own denominators: up to 30% shorter training at 13 VR sites.",
+     "ref": "VRSITES"
+    },
+    {
+     "t": "Singen's release time fell from over 30 to 19 days in one pilot.",
+     "ref": "BATCH"
+    },
+    {
+    "t": "The cited FY2026 guidance does not identify a MIERU benefit; company forecasts are not a baseline for attributing this pilot's savings.",
+     "ref": "FY26GUIDE"
+    }
+   ]
+  },
+  {
+   "id": "ceo_1",
+   "role": "CEO",
+   "q": "What changed in the three priority launch programmes recently?",
+    "answer": "By the 16 October dossier: ORZEYFUL was available in Japan/China, MIMRYLO had U.S. approval, and investigational zasocitinib had positive comparative Phase 3 data.",
+    "insight": "These are different investment gates, not equivalent launch states. TET needs shared preparation, country-specific blockers and the evidence behind each funding decision in one view.",
+    "action": "Ask global and IBU/market leads to identify the next binding constraint, its accountable owner and first-market analysis they can validate before recommissioning.",
+   "refs": [
+    "OCT_LAUNCH",
+    "R_US",
+    "ZASO_H2H"
+   ],
+   "points": [
+    {
+     "t": "ORZEYFUL became available in Japan and China on 15 October 2026, with the US launch after DEA scheduling.",
+     "ref": "OCT_LAUNCH"
+    },
+    {
+     "t": "MIMRYLO was FDA-approved on 28 August 2026.",
+     "ref": "R_US"
+    },
+    {
+     "t": "Zasocitinib reached 36.5% PASI 100 versus 13.9% for deucravacitinib at week 16.",
+     "ref": "ZASO_H2H"
+    }
+   ]
+  },
+  {
+   "id": "ceo_2",
+   "role": "CEO",
+   "q": "How can every organisational layer inform the same decision?",
+   "answer": "Through channels that already reach across Takeda — Resource Groups, values ambassadors and global employee votes.",
+    "insight": "Participation is not proof of representative input or decision influence. Test whether themes reach the right accountable function and receive a documented response.",
+    "action": "For one enterprise decision, agree privacy-safe input channels, decision ownership and a feedback loop; measure whose perspectives are missing.",
+   "refs": [
+    "AIR_PEOPLE",
+    "CSR",
+    "ORG"
+   ],
+   "points": [
+    {
+     "t": "One in five employees belonged to a Takeda Resource Group in FY2025, and over 2,000 values ambassadors are active.",
+     "ref": "AIR_PEOPLE"
+    },
+    {
+     "t": "More than 20,000 employees across 80 countries voted on the 2025 CSR collaborations.",
+     "ref": "CSR"
+    },
+    {
+    "t": "The FY2026 structure names executive functions; a project-level accountable owner still needs confirmation.",
+     "ref": "ORG"
+    }
+   ]
+  },
+  {
+   "id": "ceo_3",
+   "role": "CEO",
+   "q": "What makes decision memory more useful than a knowledge repository?",
+    "answer": "A useful decision record links the choice, alternatives, rationale, scope and review date. Its advantage over an existing repository must be demonstrated, not assumed.",
+    "insight": "For TET, the test is better decision continuity with less rework, while retaining access controls and ownership. Public descriptions do not establish that current tools lack these capabilities.",
+   "action": "Pilot decision records in one launch: measure whether the next market reuses the reasoning.",
+   "refs": [
+    "MYAIBOU",
+    "PEOPLE_MENTOR",
+    "DIGITAL"
+   ],
+   "points": [
+    {
+    "t": "The July 2024 myAibou story describes a prompt-based assistant and plans for later versions; it is not a current capability audit.",
+    "ref": "MYAIBOU"
+    },
+    {
+    "t": "Takeda describes mentoring and reverse mentoring as knowledge-exchange practices, not as its only handover mechanisms.",
+     "ref": "PEOPLE_MENTOR"
+    },
+    {
+    "t": "Takami aims to harmonize enterprise processes and data; its public description does not establish whether decision rationale is captured elsewhere.",
+     "ref": "DIGITAL"
+    }
+   ]
+  },
+  {
+   "id": "ceo_4",
+   "role": "CEO",
+   "q": "Can external evidence alone validate enterprise reuse?",
+    "answer": "No. Public evidence can identify a method and possible reviewing functions; it does not establish current internal ownership, asset access or local permission.",
+   "insight": "Evidence finds the owner and the method; an accountable human validates the fit.",
+   "action": "Use public evidence to find owners, then require a local review before any adoption.",
+   "refs": [
+    "LESSINES_AI",
+    "VRSITES",
+    "GSQ_POV"
+   ],
+   "points": [
+    {
+     "t": "Lessines' predictive maintenance names a 20-site plan, not automatic adoption.",
+     "ref": "LESSINES_AI"
+    },
+    {
+     "t": "VR training is scoped to 13 sterile-filling sites.",
+     "ref": "VRSITES"
+    },
+    {
+    "t": "GSQ describes site qualification, testing transfer and quality agreements in advance launch preparation; this is not clearance for a specific transfer.",
+     "ref": "GSQ_POV"
+    }
+   ]
+  },
+  {
+   "id": "r&d_1",
+   "role": "R&D",
+   "q": "How is ORZEYFUL scientific evidence different from commercial launch readiness?",
+   "answer": "The evidence is global and peer-reviewed; launch readiness is set country by country.",
+   "insight": "One evidence package feeds many markets, but each market's timing depends on its regulator and access route.",
+   "action": "Use the global evidence for scientific exchange and check each country's regulatory status before planning launch activity.",
+   "refs": [
+    "O_TRIAL",
+    "O_US",
+    "OCT_LAUNCH"
+   ],
+   "points": [
+    {
+     "t": "Phase 3 NT1 results were published in a peer-reviewed journal on 9 September 2026.",
+     "ref": "O_TRIAL"
+    },
+    {
+     "t": "US approval came on 5 August 2026, but availability waited for DEA scheduling.",
+     "ref": "O_US"
+    },
+    {
+     "t": "Japan and China became available on 15 October 2026 — two months after the US approval.",
+     "ref": "OCT_LAUNCH"
+    }
+   ]
+  },
+  {
+   "id": "r&d_2",
+   "role": "R&D",
+   "q": "What is the latest published zasocitinib Phase 3 evidence?",
+   "answer": "Superiority over deucravacitinib in a head-to-head Phase 3, plus results in hard-to-treat psoriasis sites.",
+   "insight": "These are trial results for an investigational medicine — strong for scientific exchange, not yet usable as claims.",
+   "action": "Keep zasocitinib data in Medical and scientific channels until approval and local claim review.",
+   "refs": [
+    "ZASO_H2H",
+    "Z_SCALP",
+    "Z_FDA"
+   ],
+   "points": [
+    {
+     "t": "36.5% of patients reached PASI 100 versus 13.9% on deucravacitinib at week 16; 62.5% versus 34.0% reached PASI 90.",
+     "ref": "ZASO_H2H"
+    },
+    {
+     "t": "About 75% reached clear or almost-clear scalp skin at week 16 in the site-specific study.",
+     "ref": "Z_SCALP"
+    },
+    {
+     "t": "The NDA is under FDA priority review with a Q1 2027 target.",
+     "ref": "Z_FDA"
+    }
+   ]
+  },
+  {
+   "id": "r&d_3",
+   "role": "R&D",
+   "q": "What should teams learn from the Innovent partnership structure?",
+   "answer": "That rights are set by geography: Takeda's rights to these oncology assets cover markets outside Greater China.",
+   "insight": "A partnered asset is not automatically available to every Takeda team; territory decides what work is allowed.",
+   "action": "Check territory, indication and data-use terms with Legal before planning work on any in-licensed asset.",
+   "refs": [
+    "INNOVENT_OCT",
+    "INNOVENT"
+   ],
+   "points": [
+    {
+     "t": "Takeda's collaboration with Innovent covers investigational assets IBI363 and IBI343 outside Greater China.",
+     "ref": "INNOVENT_OCT"
+    },
+    {
+     "t": "The deal closed in December 2025, with differing geography and co-commercialisation rights.",
+     "ref": "INNOVENT"
+    }
+   ]
+  },
+  {
+   "id": "r&d_4",
+   "role": "R&D",
+   "q": "How is Takeda using AI in drug discovery today?",
+   "answer": "As a closed loop: AI, data platforms and lab automation where each experiment informs the next decision.",
+   "insight": "AI work already has an owner in R&D; a new AI idea should connect to it rather than start in parallel.",
+    "action": "Ask R&D DD&T and the discovery lead which existing models, data and partnerships cover the use case; agree scientific validation and governance before commissioning new work.",
+   "refs": [
+    "RD_AI",
+    "DX",
+    "AIR_LAUNCH"
+   ],
+   "points": [
+    {
+     "t": "Takeda R&D describes AI-supported cellular lead profiling and integration of genetics, biomarkers and multi-omics data in neuroscience.",
+     "ref": "RD_AI"
+    },
+    {
+    "t": "Takeda's digital strategy describes Responsible AI and human oversight across its value chain; current project ownership must be confirmed internally.",
+    "ref": "DX"
+    },
+    {
+     "t": "Takeda's 2026 report says it is scaling data, digital, technology and AI capabilities across the company.",
+     "ref": "AIR_LAUNCH"
+    }
+   ]
+  },
+  {
+   "id": "medical_1",
+   "role": "Medical",
+   "q": "What is the ORZEYFUL disease-awareness opportunity?",
+   "answer": "Diagnostic delay: people with narcolepsy type 1 often wait a long time before diagnosis.",
+   "insight": "Awareness work belongs before and alongside launch, and is country-specific: referral routes differ in every health system.",
+   "action": "Map who diagnoses NT1 locally and plan non-promotional awareness with Medical and patient-group partners.",
+   "refs": [
+    "O_JP",
+    "PATIENT_NT1",
+    "AIR_ACCESS"
+   ],
+   "points": [
+    {
+     "t": "Japan's approval announcement notes long diagnostic delay and disease-awareness challenges in NT1.",
+     "ref": "O_JP"
+    },
+    {
+     "t": "A 2026 Takeda account shares a physician's lived experience of narcolepsy, illustrating diagnosis and daily-life context.",
+     "ref": "PATIENT_NT1"
+    },
+    {
+     "t": "Takeda's 2026 report lists disease awareness and screening and diagnosis among the access barriers it works on.",
+     "ref": "AIR_ACCESS"
+    }
+   ]
+  },
+  {
+   "id": "medical_2",
+   "role": "Medical",
+   "q": "How should HCP education adapt between ORZEYFUL countries?",
+   "answer": "Share the science, re-check the population: the approved age range differs by country.",
+   "insight": "Copying a module across countries can misstate the label; the evidence is common, the claims are not.",
+   "action": "Have local Medical re-check population, claims and audience before reusing any slide or module.",
+   "refs": [
+    "O_CN",
+    "O_JP",
+    "O_EDU"
+   ],
+   "points": [
+    {
+     "t": "China's approval covers adults and adolescents aged 16 and over; Japan and the US cover adults.",
+     "ref": "O_CN"
+    },
+    {
+     "t": "Japan approved ORZEYFUL for adults with NT1.",
+     "ref": "O_JP"
+    },
+    {
+     "t": "Additional Phase 3 data on daily functioning, cognition and sleep require country-specific review before use.",
+     "ref": "O_EDU"
+    }
+   ]
+  },
+  {
+   "id": "medical_3",
+   "role": "Medical",
+   "q": "What should a MIMRYLO medical launch team highlight responsibly?",
+   "answer": "The approved US population — erythrocytosis in adults with polycythemia vera — and what the VERIFY data do and do not show.",
+    "insight": "The 76.9% response applies to VERIFY weeks 20-32, not a real-world response rate. Approval outside the U.S. is not established by these sources.",
+   "action": "Confirm the USPI wording and fair balance, and check administration and training requirements in the label itself.",
+   "refs": [
+    "R_US",
+    "R_TRIAL"
+   ],
+   "points": [
+    {
+    "t": "FDA approved MIMRYLO on 28 August 2026; VERIFY reported 76.9% clinical response during weeks 20-32 in its defined study population.",
+     "ref": "R_US"
+    },
+    {
+     "t": "VERIFY addressed hematocrit control and the burden of therapeutic phlebotomy in polycythemia vera.",
+     "ref": "R_TRIAL"
+    }
+   ]
+  },
+  {
+   "id": "medical_4",
+   "role": "Medical",
+   "q": "Can Medical borrow content from independent education grants?",
+    "answer": "Grant funding does not give Takeda reuse rights. Medical must confirm the licence, grant conditions and permitted purpose before using independent content.",
+    "insight": "Sponsor independence, copyright and local content approval are separate checks. The grant page establishes independence, not permission or a prohibition for every later use.",
+   "action": "Build Medical content through its own review route; refer HCPs to independent education only through approved channels.",
+   "refs": [
+    "IMED",
+    "ETHICS"
+   ],
+   "points": [
+    {
+     "t": "Takeda describes independent medical education as fair-balanced and not influenced by the sponsor.",
+     "ref": "IMED"
+    },
+    {
+    "t": "Takeda's governance commitments establish ethical conduct and personal-data protection; specific material permissions require separate review.",
+     "ref": "ETHICS"
+    }
+   ]
+  },
+  {
+   "id": "commercial_1",
+   "role": "Commercial",
+   "q": "Which parts of Japan's digital HCP approach could inspire another market?",
+   "answer": "The way of working — data-driven HCP information and services — not the Japanese materials themselves.",
+   "insight": "The transferable part is the approach and the questions physicians asked; channels, consent and promotional approval are always local.",
+   "action": "Ask the JPBU HCP-engagement owner what they would do differently, then check consent, channel and promotional rules locally.",
+   "refs": [
+    "DX",
+    "OCT_LAUNCH"
+   ],
+   "points": [
+    {
+     "t": "Takeda Japan describes an HCP go-to-market model built on digital and data tools, alongside Innovation Capability Centers across countries.",
+     "ref": "DX"
+    },
+    {
+     "t": "ORZEYFUL became available in Japan and China on the same day, 15 October 2026, so two first markets are learning in parallel.",
+     "ref": "OCT_LAUNCH"
+    }
+   ]
+  },
+  {
+   "id": "commercial_2",
+   "role": "Commercial",
+   "q": "What can field teams say about zasocitinib today?",
+   "answer": "Nothing promotional: zasocitinib is still investigational and under FDA priority review.",
+   "insight": "Strong data creates pressure to talk about it early; before approval, scientific exchange belongs to Medical, not to field promotion.",
+    "action": "Route scientific enquiries through Medical. Internal non-promotional preparation may proceed under review; external promotion requires authorization and cleared claims.",
+   "refs": [
+    "Z_FDA",
+    "ZASO_H2H"
+   ],
+   "points": [
+    {
+     "t": "The FDA accepted the NDA with a PDUFA target in Q1 2027; there is no approval yet.",
+     "ref": "Z_FDA"
+    },
+    {
+     "t": "Head-to-head Phase 3 data show 36.5% PASI 100 versus 13.9% for deucravacitinib at week 16 — trial evidence, not an approved claim.",
+     "ref": "ZASO_H2H"
+    }
+   ]
+  },
+  {
+   "id": "commercial_3",
+   "role": "Commercial",
+   "q": "What is commercial readiness for ORZEYFUL by market?",
+    "answer": "At the 16 October snapshot: available in Japan/China, U.S. availability conditional on DEA scheduling, and EU authorization not established. This is status, not a readiness assessment.",
+    "insight": "Non-promotional preparation can precede approval. Commercial activation still requires local label, access, supply and content checks; the dossier does not confirm these are complete.",
+   "action": "Report readiness per market with its date and source, and never infer approval or availability from another country.",
+   "refs": [
+    "OCT_LAUNCH",
+    "O_US",
+    "O_CN"
+   ],
+   "points": [
+    {
+     "t": "ORZEYFUL became commercially available in Japan and China on 15 October 2026, with the US launch planned after DEA scheduling.",
+     "ref": "OCT_LAUNCH"
+    },
+    {
+     "t": "The FDA approved ORZEYFUL for adults with NT1 on 5 August 2026; approval does not mean availability.",
+     "ref": "O_US"
+    },
+    {
+     "t": "China's approval covers people aged 16 and over — a different population from Japan and the US.",
+     "ref": "O_CN"
+    }
+   ]
+  },
+  {
+   "id": "commercial_4",
+   "role": "Commercial",
+   "q": "Where could sales and Medical duplicate effort?",
+    "answer": "Potential overlap includes public evidence reviews and agency work. Shared physicians do not imply identical objectives or permission to merge Medical and Commercial activity.",
+    "insight": "Coordinate approved planning inputs while preserving Medical independence, purpose-limited HCP data and distinct content approvals. These sources do not quantify duplication.",
+    "action": "Compare scopes with Medical, Commercial and Compliance; authorize specific shared inputs rather than create a combined HCP list by default.",
+   "refs": [
+    "IMED",
+    "ORG"
+   ],
+   "points": [
+    {
+     "t": "Independent medical education must be fair-balanced and not influenced by the sponsor.",
+     "ref": "IMED"
+    },
+    {
+     "t": "Takeda's FY2026 structure separates Global Medical, Commercial and Legal/Ethics/Compliance as distinct functions.",
+     "ref": "ORG"
+    }
+   ]
+  },
+  {
+   "id": "site_1",
+   "role": "Site",
+   "q": "Our line keeps stopping unexpectedly. Has another Takeda plant solved unplanned downtime?",
+    "answer": "Lessines is a relevant precedent: Takeda reports predictive maintenance at scale, not that all unplanned downtime has been eliminated or that your line has the same failure mode.",
+   "insight": "Your plant may already be one of the 20 planned sites — which would turn a local project into joining an existing rollout.",
+   "action": "Ask Digital Manufacturing whether your site is in the FY2027 scope and which sensor, data and validation prerequisites apply.",
+   "refs": [
+    "LESSINES_AI",
+    "PLANT"
+   ],
+   "points": [
+    {
+     "t": "Lessines runs 170+ AI predictive-maintenance agents across 45 systems, with extension to 20 global sites planned by FY2027.",
+     "ref": "LESSINES_AI"
+    },
+    {
+     "t": "Takeda says manufacturing digital twins help share advanced technologies across sites and shorten time to implement new systems.",
+     "ref": "PLANT"
+    }
+   ]
+  },
+  {
+   "id": "site_3",
+   "role": "Site",
+   "q": "What does Takami change for shop-floor data?",
+    "answer": "Takami is building standardized processes and a shared digital core. Cross-site comparability depends on rollout, data quality, common definitions and access at the participating sites.",
+   "insight": "Shared data is the precondition for shared fixes: once sites use the same data model, one site's solution becomes easier to apply at another.",
+   "action": "Ask which master-data objects your site owns under Takami before building a local dashboard that might become redundant.",
+   "refs": [
+    "DIGITAL",
+    "DTC_SITE"
+   ],
+   "points": [
+    {
+     "t": "Takami is a multi-year programme standardising processes on SAP S/4HANA across manufacturing, supply chain, finance and plasma therapies.",
+     "ref": "DIGITAL"
+    },
+    {
+     "t": "Its stated goal is to harmonise end-to-end operations and build trusted enterprise data.",
+     "ref": "DTC_SITE"
+    }
+   ]
+  },
+  {
+   "id": "dd&t_1",
+   "role": "DD&T",
+   "q": "How is MIERU different from Takami or a document-search tool?",
+   "answer": "Takami standardises data and search finds files; MIERU proposes to retrieve a reviewed decision with its reasoning and conditions.",
+    "insight": "The proposed distinction is a scoped decision record, not a proven gap in existing systems. Confirm overlap before adding another tool or repository.",
+    "action": "Have DD&T compare current capabilities, access controls, provenance, retention and integration costs; proceed only where a measured decision-workflow gap remains.",
+   "refs": [
+    "DIGITAL",
+    "MYAIBOU",
+    "AIR_PEOPLE"
+   ],
+   "points": [
+    {
+     "t": "Takami is a multi-year SAP S/4HANA programme standardising processes and data across the enterprise.",
+     "ref": "DIGITAL"
+    },
+    {
+    "t": "The July 2024 myAibou story describes prompt-only access at that time, not the capabilities or integrations of today's version.",
+     "ref": "MYAIBOU"
+    },
+    {
+    "t": "The 2026 report states 63% active generative-AI use; adoption does not establish a gap in current decision tools.",
+    "ref": "AIR_PEOPLE"
+    }
+   ]
+  },
+  {
+   "id": "dd&t_2",
+   "role": "DD&T",
+   "q": "Which technical capability has a published cross-site example?",
+   "answer": "AI predictive maintenance: proven at Lessines and planned for 20 sites.",
+   "insight": "This is the pattern decision memory should carry: one site's method, its conditions, and a planned path to others.",
+   "action": "Ask Digital Manufacturing which sites are in the 20-site scope and what each must complete to qualify.",
+   "refs": [
+    "LESSINES_AI",
+    "PLANT"
+   ],
+   "points": [
+    {
+     "t": "Lessines runs 170+ AI predictive-maintenance agents across 45 systems, with extension to 20 sites planned by FY2027.",
+     "ref": "LESSINES_AI"
+    },
+    {
+     "t": "Takeda says manufacturing digital twins help share advanced technologies across sites faster.",
+     "ref": "PLANT"
+    }
+   ]
+  },
+  {
+   "id": "dd&t_3",
+   "role": "DD&T",
+   "q": "How widely is generative AI already used at Takeda, and who governs it?",
+    "answer": "The 2026 report states 63% active generative-AI use. Takeda publishes Responsible AI and human-oversight commitments; confirm current accountable owners and approval routes internally.",
+   "insight": "Adoption is already high; the risk now is parallel tools and unreviewed data use, not lack of AI.",
+    "action": "Check enterprise tool coverage with DD&T and Ethics & Compliance; validate decision quality, data rights and net benefit rather than treating adoption as productivity.",
+   "refs": [
+    "AIR_PEOPLE",
+    "DX",
+    "MYAIBOU"
+   ],
+   "points": [
+    {
+     "t": "Takeda's 2026 report states 63% of employees are actively using generative-AI tools.",
+     "ref": "AIR_PEOPLE"
+    },
+    {
+    "t": "Takeda's digital strategy emphasizes Responsible AI, human oversight and governance; it does not certify a proposed use case's compliance.",
+    "ref": "DX"
+    },
+    {
+    "t": "The July 2024 myAibou story describes prompt-only data access then and plans for later versions; current capabilities need confirmation.",
+     "ref": "MYAIBOU"
+    }
+   ]
+  },
+  {
+   "id": "dd&t_4",
+   "role": "DD&T",
+   "q": "What needs to be in place before MIERU ingests real employee voices?",
+    "answer": "An approved purpose and lawful basis, appropriate AI/privacy assessments, access and retention controls, and a tested route for sensitive reports must precede real employee-data use.",
+    "insight": "The pilot uses synthetic voices. Identifiable real input adds privacy, employment and confidentiality risks; consent or redaction alone is not a complete control.",
+   "action": "Agree with DD&T, Ethics & Compliance and HR: lawful basis, redaction, minimum group size, retention and routing for safety or conduct content.",
+   "refs": [
+    "DX",
+    "ETHICS"
+   ],
+   "points": [
+    {
+    "t": "Takeda publicly describes Responsible AI principles and human oversight. Detailed assessment requirements must come from the current internal governance process.",
+    "ref": "DX"
+    },
+    {
+    "t": "Takeda's governance commitments include personal-data protection; they do not authorize ingestion or cross-border transfer of employee records.",
+     "ref": "ETHICS"
+    }
+   ]
+  },
+  {
+   "id": "field_all_1",
+   "role": "All",
+   "q": "I work on a site: where can I learn how another Takeda plant trains cleanroom operators?",
+   "answer": "From the VR/AR operator-training programme already running at 13 Takeda sterile-filling sites.",
+   "insight": "A method that works at another sterile-filling site still has to be qualified against your equipment, gowning steps and SOPs.",
+   "action": "Ask your site training lead to contact the GSQ operator-training programme and confirm the qualification steps for your lines.",
+   "refs": [
+    "VRSITES",
+    "GSQ_POV"
+   ],
+   "points": [
+    {
+     "t": "The programme delivers 10,000 VR sessions a year and reports up to 30% shorter training time for new colleagues.",
+     "ref": "VRSITES"
+    },
+    {
+     "t": "Global Supply & Quality prepares sites years ahead of launches, including site qualification and testing transfer.",
+     "ref": "GSQ_POV"
+    }
+   ]
+  },
+  {
+   "id": "field_all_2",
+   "role": "All",
+   "q": "I have an improvement idea about quality handoffs. Has another Takeda team tried something similar?",
+   "answer": "Yes — the One Day Batch Release programme works on exactly these handoffs between manufacturing, lab and Quality.",
+   "insight": "Your idea may already fit an existing programme — which gives it an owner, a method and a faster route than starting alone.",
+   "action": "Share the idea with your site Quality lead and ask how it connects to the One Day Batch Release team.",
+   "refs": [
+    "BATCH",
+    "AIR_LAUNCH"
+   ],
+   "points": [
+    {
+     "t": "Six sites piloted it; Singen's average vaccine release time fell from over 30 to 19 days. The one-day target is still a target.",
+     "ref": "BATCH"
+    },
+    {
+     "t": "Takeda's 2026 report names One Day Batch Release as a company-level manufacturing and quality initiative.",
+     "ref": "AIR_LAUNCH"
+    }
+   ]
+  },
+  {
+   "id": "field_all_3",
+   "role": "All",
+   "q": "How can I share a practical lesson with colleagues moving into my role?",
+   "answer": "Pair a short written decision record with Takeda's existing mentoring routes.",
+    "insight": "Pair discussion with a record of decisions likely to be reopened. Whether this closes an actual handover gap should be checked with the receiving colleague.",
+   "action": "Before handing over, record the three decisions most likely to be reopened: what was chosen, why, and under what conditions.",
+   "refs": [
+    "PEOPLE_MENTOR",
+    "CAREERS"
+   ],
+   "points": [
+    {
+    "t": "Takeda R&D describes mentoring and reverse mentoring as examples of expertise exchange across roles.",
+     "ref": "PEOPLE_MENTOR"
+    },
+    {
+    "t": "Career Navigator supports role discovery, learning and mentoring; the public page does not assess decision-handover completeness.",
+     "ref": "CAREERS"
+    }
+   ]
+  },
+  {
+   "id": "field_all_4",
+   "role": "All",
+   "q": "How can site, legal, sales and R&D colleagues learn from one another without copying sensitive material?",
+   "answer": "Share the method, the owner and the reasoning — not files, data or claims — and route anything sensitive through review.",
+    "insight": "Start with the method and scope. Material or data reuse may be possible when rights, purpose, security and local approvals are established; it is not automatic.",
+   "action": "Ask the owning team for a conversation first; involve Ethics & Compliance before any data, voice or material moves.",
+   "refs": [
+    "ETHICS",
+    "DX",
+    "VALUES_NETWORK"
+   ],
+   "points": [
+    {
+     "t": "Takeda's Code of Conduct covers protecting personal data and responsible innovation.",
+     "ref": "ETHICS"
+    },
+    {
+    "t": "Takeda's digital strategy describes Responsible AI and human oversight; confirm the internal assessment route for the intended use.",
+    "ref": "DX"
+    },
+    {
+     "t": "Over 2,100 Values Ambassadors in 60+ countries reinforce values-based decisions locally.",
+     "ref": "VALUES_NETWORK"
+    }
+   ]
+  },
+  {
+   "id": "field_site_1",
+   "role": "Site",
+   "q": "Our plant trains new cleanroom operators. Is there a qualified VR precedent at another Takeda site?",
+   "answer": "Yes — VR/AR training is used at 13 Takeda sterile-filling sites on three continents.",
+   "insight": "The method is proven elsewhere; what is not proven is that it is qualified for your equipment and GMP context.",
+   "action": "Contact the GSQ operator-training owner, compare your lines with an existing VR site, and plan the local qualification.",
+   "refs": [
+    "VRSITES",
+    "GSQ_POV"
+   ],
+   "points": [
+    {
+     "t": "The programme runs 10,000 sessions a year and reports up to 30% shorter training time for new colleagues.",
+     "ref": "VRSITES"
+    },
+    {
+     "t": "GSQ prepares sites for new products through site qualification and testing transfer, years ahead of launch.",
+     "ref": "GSQ_POV"
+    }
+   ]
+  },
+  {
+   "id": "field_site_2",
+   "role": "Site",
+   "q": "I am a quality analyst. Has Takeda shortened document collection before batch release?",
+   "answer": "Yes — six sites piloted One Day Batch Release, and Singen cut its average release time from over 30 to 19 days.",
+    "insight": "The published outcome covers end-to-end batch release, not document collection alone. Identify the local bottleneck before attributing the result to one workflow change.",
+   "action": "Ask the One Day Batch Release team which document steps changed and what your site would need to qualify.",
+   "refs": [
+    "BATCH",
+    "AIR_LAUNCH"
+   ],
+   "points": [
+    {
+     "t": "The Singen result covers vaccine batches; the one-day goal remains a target, not an achieved result.",
+     "ref": "BATCH"
+    },
+    {
+     "t": "Takeda's 2026 report lists One Day Batch Release among its manufacturing and quality initiatives.",
+     "ref": "AIR_LAUNCH"
+    }
+   ]
+  },
+  {
+   "id": "field_site_3",
+   "role": "Site",
+   "q": "Has any Takeda plant used AI to plan inventory and demand?",
+   "answer": "Yes — the Hikari plant in Japan combined AI demand forecasting with multi-echelon inventory optimisation.",
+   "insight": "No percentage or baseline is published, so treat Hikari as a lead to investigate, not a number to plan around.",
+   "action": "Ask Hikari's supply-planning team which data the model needs and whether your site's data is already on Takami.",
+   "refs": [
+    "HIKARI_AI",
+    "DIGITAL"
+   ],
+   "points": [
+    {
+     "t": "Takeda says it was among the first in Japan to pair AI forecasting with multi-echelon inventory optimisation, and that Hikari significantly lowered inventory costs.",
+     "ref": "HIKARI_AI"
+    },
+    {
+    "t": "Takami aims to support trusted enterprise data and forecasting; this source does not establish that Hikari's reported result depended on Takami.",
+     "ref": "DIGITAL"
+    }
+   ]
+  },
+  {
+   "id": "field_site_4",
+   "role": "Site",
+   "q": "Can our laboratory learn from Vienna's safer quality-testing approach?",
+   "answer": "Yes as a method — Vienna moved immunoglobulin QC testing to a safer, regulator-approved poliovirus strain.",
+   "insight": "Any other test or site would need its own assay validation and regulatory approval — the method travels, the approval does not.",
+   "action": "Contact Vienna's Global Pathogen Safety team through your Quality lead before planning a similar change.",
+   "refs": [
+    "POLIO",
+    "PDT_QA"
+   ],
+   "points": [
+    {
+     "t": "Vienna's Global Pathogen Safety team switched to the S19 strain after FDA approval and destroyed remaining wild-type stocks in May 2026.",
+     "ref": "POLIO"
+    },
+    {
+     "t": "Takeda profiles linked plasma-quality roles in Los Angeles and Vienna, showing how global and site quality teams connect.",
+     "ref": "PDT_QA"
+    }
+   ]
+  },
+  {
+   "id": "field_hr_1",
+   "role": "HR",
+   "q": "When I change roles, how do I find who knows a process and why it changed?",
+    "answer": "Start with the process owner, predecessor and existing approved records. A dated rationale can supplement them when the reason for a change is not readily retrievable.",
+    "insight": "Do not assume a new record is needed. Confirm the authoritative source, owner and access route so a handover does not create a competing version of the process.",
+   "action": "Ask your predecessor for the three decisions most likely to be reopened and record each with its reason and reviewer.",
+   "refs": [
+    "MENTOR",
+    "PEOPLE_MENTOR",
+    "CAREERS"
+   ],
+   "points": [
+    {
+     "t": "Takeda employees describe cross-function mentorship and knowledge exchange.",
+     "ref": "MENTOR"
+    },
+    {
+     "t": "R&D leadership describes reverse mentoring involving Global Regulatory Affairs.",
+     "ref": "PEOPLE_MENTOR"
+    },
+    {
+    "t": "Takeda's career-growth page describes learning and mentoring support; it does not identify the owner or approved history of a specific process.",
+    "ref": "CAREERS"
+    }
+   ]
+  },
+  {
+   "id": "field_hr_2",
+   "role": "HR",
+   "q": "What evidence exists of employee listening outside headquarters?",
+   "answer": "Country-level listening and recognition in Australia, Korea and 25 Great Place to Work countries.",
+    "insight": "Recognition does not prove representative listening or cross-country comparability. The public sources do not establish an enterprise gap or disclose employee comments.",
+    "action": "Have HR assess existing aggregated themes, survey methods and privacy permissions before commissioning new listening or combining country results.",
+   "refs": [
+    "PEOPLE_AU",
+    "KOREA_PEOPLE",
+    "TOP"
+   ],
+   "points": [
+    {
+     "t": "Great Place to Work certification in 25 countries, including Australia, is based on a confidential survey.",
+     "ref": "PEOPLE_AU"
+    },
+    {
+     "t": "Takeda Korea reports recognition among the best workplaces in Korea and Asia.",
+     "ref": "KOREA_PEOPLE"
+    },
+    {
+     "t": "Takeda was a Global Top Employer for the eighth consecutive year in 2025.",
+     "ref": "TOP"
+    }
+   ]
+  },
+  {
+   "id": "field_legal_1",
+   "role": "Legal",
+   "q": "If a site worker suggests a process fix, can their words be shown globally?",
+    "answer": "Do not share identifiable words by default. Privacy/Legal must establish the lawful basis, permitted purpose and safeguards; employee consent alone may not be sufficient or appropriate.",
+   "insight": "The value is the idea, which can travel; the worker's identity and exact words should not travel by default.",
+    "action": "Minimize identifying details and have Privacy/Legal confirm the sharing basis, audience, retention and transfer controls; assess re-identification risk before release.",
+   "refs": [
+    "ETHICS",
+    "DX"
+   ],
+   "points": [
+    {
+     "t": "Takeda's Code of Conduct requires protecting personal data.",
+     "ref": "ETHICS"
+    },
+    {
+    "t": "Takeda describes Responsible AI and human oversight, not blanket permission to publish employee suggestions globally.",
+    "ref": "DX"
+    }
+   ]
+  },
+  {
+   "id": "field_dd&t_1",
+   "role": "DD&T",
+   "q": "Is there a site example of AR or VR assistance instead of a static SOP?",
+   "answer": "Yes — immersive VR/AR operator training at 13 sterile-filling sites.",
+    "insight": "Immersive training and AR guidance can complement controlled procedures. This does not authorize replacing an approved SOP or bypassing local training qualification.",
+   "action": "Ask the GSQ training owner whether an AR/VR module exists for your process before building one.",
+   "refs": [
+    "VRSITES"
+   ],
+   "points": [
+    {
+     "t": "Takeda reports 10,000 VR sessions a year across 13 sites and up to 30% shorter training for new colleagues.",
+     "ref": "VRSITES"
+    }
+   ]
+  },
+  {
+   "id": "field_dd&t_2",
+   "role": "DD&T",
+   "q": "Our team wants to build its own chatbot. What should we check first?",
+   "answer": "Whether Takeda's existing assistant already covers the need, and then a Responsible AI and privacy assessment.",
+   "insight": "A separate chatbot duplicates an enterprise tool and adds data risk unless it does something the existing tools cannot.",
+   "action": "Test the need against myAibou, then bring any remaining gap to DD&T and Ethics & Compliance for assessment.",
+   "refs": [
+    "MYAIBOU",
+    "DX",
+    "ETHICS"
+   ],
+   "points": [
+    {
+    "t": "Takeda's July 2024 myAibou story establishes an internal assistant and its historical prompt-only design; assess today's tool before deciding to build.",
+     "ref": "MYAIBOU"
+    },
+    {
+    "t": "Takeda's digital strategy emphasizes Responsible AI and human oversight; confirm current assessment requirements internally.",
+    "ref": "DX"
+    },
+    {
+    "t": "Takeda's published governance commitments include personal-data protection and ethical conduct; they do not approve a proposed chatbot or its data sources.",
+    "ref": "ETHICS"
+    }
+   ]
+  },
+  {
+   "id": "field_r&d_1",
+   "role": "R&D",
+   "q": "Has Takeda worked with a university in Japan to improve clinical development execution?",
+   "answer": "Yes — Takeda Japan and Nagoya University agreed in 2026 to pursue a next-generation clinical-development approach.",
+   "insight": "It is a direction to learn from, not a proven method: no results have been published.",
+   "action": "Ask the Japan development team what is in scope before starting a similar university collaboration elsewhere.",
+   "refs": [
+    "NAGOYA"
+   ],
+   "points": [
+    {
+     "t": "The collaboration combines university clinical infrastructure with Takeda's global development expertise; the primary source is in Japanese and reports no completed outcome yet.",
+     "ref": "NAGOYA"
+    }
+   ]
+  },
+  {
+   "id": "field_r&d_2",
+   "role": "R&D",
+   "q": "Before starting an AI project in R&D, who already owns AI/ML work and its rules?",
+    "answer": "Start with R&D DD&T, the discovery or development owner, and Ethics & Compliance. Public sources establish ongoing AI work, not a current assignment of every project to one team.",
+   "insight": "Starting with the owner avoids building a duplicate model and brings the privacy and ethics review in early.",
+    "action": "Confirm the accountable technical and scientific owners, existing capabilities and required AI/privacy assessments before funding development or sharing data.",
+   "refs": [
+    "RD_AI",
+    "DX"
+   ],
+   "points": [
+    {
+    "t": "Takeda describes AI, data platforms and lab automation embedded in discovery, with computational and laboratory teams working together.",
+    "ref": "RD_AI"
+    },
+    {
+    "t": "Takeda's digital strategy describes Responsible AI and human oversight; detailed approval criteria and current ownership require internal confirmation.",
+    "ref": "DX"
+    }
+   ]
+  },
+  {
+   "id": "field_medical_1",
+   "role": "Medical",
+   "q": "Is there an approved scientific pathway for learning from an ORZEYFUL market with a different age indication?",
+    "answer": "A scientific starting point exists; an approved cross-market learning pathway is not established. Review shared Phase 3 evidence against the local population and permitted use.",
+   "insight": "Learning from China is valuable — but any age-related point must be removed or re-reviewed before use elsewhere.",
+   "action": "Use the published Phase 3 evidence as the common base and ask local Medical to review every population statement.",
+   "refs": [
+    "O_CN",
+    "O_US",
+    "O_TRIAL"
+   ],
+   "points": [
+    {
+     "t": "China's population includes adolescents aged 16+, unlike the US adult label.",
+     "ref": "O_CN"
+    },
+    {
+     "t": "The FDA approved ORZEYFUL for adults with NT1.",
+     "ref": "O_US"
+    },
+    {
+     "t": "Peer-reviewed Phase 3 results can inform scientific exchange; indications and claims must be checked locally.",
+     "ref": "O_TRIAL"
+    }
+   ]
+  },
+  {
+   "id": "field_commercial_1",
+   "role": "Commercial",
+   "q": "I am a new field colleague. Where might I find approved learning from Japan's digital HCP engagement?",
+   "answer": "Through the JPBU owner of Japan's HCP go-to-market model — the method is published, the materials are not.",
+   "insight": "You can learn how Japan works with physicians; you cannot reuse its materials without local approval.",
+   "action": "Ask your manager to connect you with the JPBU HCP-engagement team and check which learning is approved in your country.",
+   "refs": [
+    "DX",
+    "JAPAN_LAUNCH"
+   ],
+   "points": [
+    {
+     "t": "Takeda Japan publishes its data-driven HCP model and its Innovation Capability Centers.",
+     "ref": "DX"
+    },
+    {
+     "t": "Takeda Japan's launch announcement for ORZEYFUL does not include local marketing materials or field-learning permissions.",
+     "ref": "JAPAN_LAUNCH"
+    }
+   ]
+  },
+  {
+   "id": "field_commercial_2",
+   "role": "Commercial",
+   "q": "Can a sales representative use a psoriasis patient story as product promotion?",
+   "answer": "No — Takeda published the story for disease awareness only, from a compensated patient.",
+   "insight": "Using disease-awareness content in a product conversation turns it into promotion without the required review.",
+   "action": "Share disease-awareness content only through approved channels and ask Medical/Legal before any product discussion.",
+   "refs": [
+    "PSO_PATIENT",
+    "PSO_QOL"
+   ],
+   "points": [
+    {
+     "t": "The psoriasis patient story is explicitly limited to disease awareness and does not grant reuse of the person's material.",
+     "ref": "PSO_PATIENT"
+    },
+    {
+     "t": "Takeda's psoriasis quality-of-life article is non-promotional disease context, not a zasocitinib claim.",
+     "ref": "PSO_QOL"
+    }
+   ]
+  },
+  {
+   "id": "field_market_access_1",
+   "role": "Market Access",
+   "q": "What can a local access colleague learn from the global plasma network?",
+   "answer": "How donor centres, manufacturing and markets connect — useful context for plasma-derived therapy access.",
+   "insight": "Plasma supply is global but access is local; knowing the network explains supply constraints in your market.",
+   "action": "Ask the PDT team which supply facts affect your country before committing to access timelines.",
+   "refs": [
+    "PDTVALUE",
+    "INDO"
+   ],
+   "points": [
+    {
+     "t": "Takeda runs 270+ BioLife donation centres in the US and Europe, eight PDT manufacturing facilities and supplies 80+ countries.",
+     "ref": "PDTVALUE"
+    },
+    {
+     "t": "Indonesia's phased plasma initiative shows how a country can join the network.",
+     "ref": "INDO"
+    }
+   ]
+  },
+  {
+   "id": "field_ceo_1",
+   "role": "CEO",
+   "q": "What proves frontline suggestions can connect to work already demonstrated?",
+    "answer": "Published programmes provide relevant precedents for the pilot's synthetic scenarios. They do not prove that real employee suggestions have been matched or resolved.",
+    "insight": "TET should distinguish a plausible match from a verified outcome. Value requires an owner to accept the issue, validate fit and measure resolution, with a feedback loop to colleagues.",
+    "action": "Use the two demonstrated themes to test matching quality with approved, privacy-safe input; track accepted matches and outcomes before claiming faster resolution.",
+   "refs": [
+    "LESSINES_AI",
+    "BATCH",
+    "VALUES_NETWORK"
+   ],
+   "points": [
+    {
+    "t": "Takeda reports 170+ predictive-maintenance agents at Lessines; the pilot's associated employee signals are synthetic, not actual site reports.",
+     "ref": "LESSINES_AI"
+    },
+    {
+    "t": "One Day Batch Release was piloted at six sites; that evidence does not establish resolution of the pilot's illustrative quality concerns.",
+     "ref": "BATCH"
+    },
+    {
+     "t": "Over 2,100 Values Ambassadors in 60+ countries already connect frontline colleagues to company values.",
+     "ref": "VALUES_NETWORK"
+    }
+   ]
+  },
+  {
+   "id": "field_cfo_1",
+   "role": "CFO",
+   "q": "Can a site share a quantified improvement without it being treated as enterprise savings?",
+   "answer": "Yes — by stating its scope: which site, which process, which period.",
+   "insight": "Results are credible when their scope is explicit; extrapolating them across the network is where they become misleading.",
+   "action": "Publish site results with scope and owner, and let Finance decide whether any enterprise case exists.",
+   "refs": [
+    "BATCH",
+    "PDTENERGY"
+   ],
+   "points": [
+    {
+     "t": "Singen's vaccine release time fell from over 30 to 19 days in a six-site pilot.",
+     "ref": "BATCH"
+    },
+    {
+     "t": "Vienna's AHEAD project cuts up to 1,600 tonnes of emissions a year at one site.",
+     "ref": "PDTENERGY"
+    }
+   ]
+  },
+  {
+   "id": "field_drug_launch_1",
+   "role": "Drug launch",
+   "q": "What must a supply colleague check before copying a past launch-readiness list?",
+   "answer": "Whether each item still applies: site qualification, testing transfer, packaging, labelling and quality agreements change by product and market.",
+   "insight": "A past list is a strong starting checklist, but release processes are changing, so some steps may be out of date.",
+   "action": "Review each item with GSQ and the receiving site before reusing the list.",
+   "refs": [
+    "GSQ_POV",
+    "BATCH"
+   ],
+   "points": [
+    {
+     "t": "GSQ lists site qualification, testing transfer, packaging, labelling, quality agreements and supply processes as launch preparation.",
+     "ref": "GSQ_POV"
+    },
+    {
+     "t": "One Day Batch Release is changing how release evidence is gathered at pilot sites.",
+     "ref": "BATCH"
+    }
+   ]
+  }
+ ],
+ "roles": [
+  "All",
+  "Site",
+  "Commercial",
+  "Medical",
+  "R&D",
+  "DD&T",
+  "HR",
+  "Legal",
+  "Market Access",
+  "Drug launch",
+  "CFO",
+  "CEO"
+ ]
+}

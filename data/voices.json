@@ -1,0 +1,3006 @@
+{
+ "asOf": "2026-10-16",
+ "label": "300 illustrative, authored synthetic voice examples across six channel types, five themes, ten geographies and cross-functional layers. Not Takeda employee data; outcomes are not model accuracy.",
+ "voices": [
+  {
+   "id": "V001",
+   "theme": "site",
+   "function": "Manufacturing",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Town hall",
+   "text": "Why does every plant decide alone how to prevent an unplanned stop? At Hikari the filling line went down twice last month.",
+   "synthetic": true
+  },
+  {
+   "id": "V002",
+   "theme": "site",
+   "function": "Quality",
+   "market": "Germany",
+   "layer": "Function / country",
+   "channel": "Town hall",
+   "text": "At Singen our pump failure was only found after the line downtime started. Has any Takeda site tried predictive maintenance?",
+   "synthetic": true
+  },
+  {
+   "id": "V003",
+   "theme": "site",
+   "function": "Engineering",
+   "market": "Austria",
+   "layer": "Global function",
+   "channel": "Town hall",
+   "text": "Batch release at Vienna still waits on paper release records from three teams. Has another plant shortened this?",
+   "synthetic": true
+  },
+  {
+   "id": "V004",
+   "theme": "site",
+   "function": "Site Operations",
+   "market": "EU",
+   "layer": "Project team",
+   "channel": "Town hall",
+   "text": "Our maintenance log at Lessines is a spreadsheet nobody reads until an unplanned stop. Who has done this better?",
+   "synthetic": true
+  },
+  {
+   "id": "V005",
+   "theme": "site",
+   "function": "Global Supply & Quality",
+   "market": "US",
+   "layer": "Regional leader",
+   "channel": "Town hall",
+   "text": "New operators at Los Angeles need months of cleanroom training before they can work alone. Is there a faster qualified method?",
+   "synthetic": true
+  },
+  {
+   "id": "V006",
+   "theme": "site",
+   "function": "Training",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Town hall",
+   "text": "Gowning and aseptic steps are taught at Osaka from the SOP only. Has a Takeda site used VR operator training?",
+   "synthetic": true
+  },
+  {
+   "id": "V007",
+   "theme": "site",
+   "function": "Manufacturing",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Town hall",
+   "text": "Last launch, batch release at Brooklyn Park took weeks because release records were collected by email.",
+   "synthetic": true
+  },
+  {
+   "id": "V008",
+   "theme": "site",
+   "function": "Quality",
+   "market": "US",
+   "layer": "Global function",
+   "channel": "Town hall",
+   "text": "We rebuilt the cleanroom training plan at Social Circle from scratch, then heard another plant already had one.",
+   "synthetic": true
+  },
+  {
+   "id": "V009",
+   "theme": "site",
+   "function": "Engineering",
+   "market": "Austria",
+   "layer": "Project team",
+   "channel": "Town hall",
+   "text": "In the shift huddle at Linz we discuss the same equipment stopped alarms every week. Is anyone predicting them?",
+   "synthetic": true
+  },
+  {
+   "id": "V010",
+   "theme": "site",
+   "function": "Site Operations",
+   "market": "India",
+   "layer": "Regional leader",
+   "channel": "Town hall",
+   "text": "Operator training for new operators at Bengaluru differs from the next plant, even for the same filling process.",
+   "synthetic": true
+  },
+  {
+   "id": "V011",
+   "theme": "site",
+   "function": "Quality",
+   "market": "Austria",
+   "layer": "Function / country",
+   "channel": "Pulse survey",
+   "text": "At Vienna our pump failure was only found after the line downtime started. Has any Takeda site tried predictive maintenance?",
+   "synthetic": true
+  },
+  {
+   "id": "V012",
+   "theme": "site",
+   "function": "Engineering",
+   "market": "EU",
+   "layer": "Global function",
+   "channel": "Pulse survey",
+   "text": "Batch release at Lessines still waits on paper release records from three teams. Has another plant shortened this?",
+   "synthetic": true
+  },
+  {
+   "id": "V013",
+   "theme": "site",
+   "function": "Site Operations",
+   "market": "US",
+   "layer": "Project team",
+   "channel": "Pulse survey",
+   "text": "Our maintenance log at Los Angeles is a spreadsheet nobody reads until an unplanned stop. Who has done this better?",
+   "synthetic": true
+  },
+  {
+   "id": "V014",
+   "theme": "site",
+   "function": "Global Supply & Quality",
+   "market": "Japan",
+   "layer": "Regional leader",
+   "channel": "Pulse survey",
+   "text": "New operators at Osaka need months of cleanroom training before they can work alone. Is there a faster qualified method?",
+   "synthetic": true
+  },
+  {
+   "id": "V015",
+   "theme": "site",
+   "function": "Training",
+   "market": "US",
+   "layer": "Site / frontline",
+   "channel": "Pulse survey",
+   "text": "Gowning and aseptic steps are taught at Brooklyn Park from the SOP only. Has a Takeda site used VR operator training?",
+   "synthetic": true
+  },
+  {
+   "id": "V016",
+   "theme": "site",
+   "function": "Manufacturing",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Pulse survey",
+   "text": "Last launch, batch release at Social Circle took weeks because release records were collected by email.",
+   "synthetic": true
+  },
+  {
+   "id": "V017",
+   "theme": "site",
+   "function": "Quality",
+   "market": "Austria",
+   "layer": "Global function",
+   "channel": "Pulse survey",
+   "text": "We rebuilt the cleanroom training plan at Linz from scratch, then heard another plant already had one.",
+   "synthetic": true
+  },
+  {
+   "id": "V018",
+   "theme": "site",
+   "function": "Engineering",
+   "market": "India",
+   "layer": "Project team",
+   "channel": "Pulse survey",
+   "text": "In the shift huddle at Bengaluru we discuss the same equipment stopped alarms every week. Is anyone predicting them?",
+   "synthetic": true
+  },
+  {
+   "id": "V019",
+   "theme": "site",
+   "function": "Site Operations",
+   "market": "Japan",
+   "layer": "Regional leader",
+   "channel": "Pulse survey",
+   "text": "Operator training for new operators at Hikari differs from the next plant, even for the same filling process.",
+   "synthetic": true
+  },
+  {
+   "id": "V020",
+   "theme": "site",
+   "function": "Global Supply & Quality",
+   "market": "Germany",
+   "layer": "Site / frontline",
+   "channel": "Pulse survey",
+   "text": "Why does every plant decide alone how to prevent an unplanned stop? At Singen the filling line went down twice last month.",
+   "synthetic": true
+  },
+  {
+   "id": "V021",
+   "theme": "site",
+   "function": "Engineering",
+   "market": "US",
+   "layer": "Global function",
+   "channel": "Launch retrospective",
+   "text": "Batch release at Los Angeles still waits on paper release records from three teams. Has another plant shortened this?",
+   "synthetic": true
+  },
+  {
+   "id": "V022",
+   "theme": "site",
+   "function": "Site Operations",
+   "market": "Japan",
+   "layer": "Project team",
+   "channel": "Launch retrospective",
+   "text": "Our maintenance log at Osaka is a spreadsheet nobody reads until an unplanned stop. Who has done this better?",
+   "synthetic": true
+  },
+  {
+   "id": "V023",
+   "theme": "site",
+   "function": "Global Supply & Quality",
+   "market": "US",
+   "layer": "Regional leader",
+   "channel": "Launch retrospective",
+   "text": "New operators at Brooklyn Park need months of cleanroom training before they can work alone. Is there a faster qualified method?",
+   "synthetic": true
+  },
+  {
+   "id": "V024",
+   "theme": "site",
+   "function": "Training",
+   "market": "US",
+   "layer": "Site / frontline",
+   "channel": "Launch retrospective",
+   "text": "Gowning and aseptic steps are taught at Social Circle from the SOP only. Has a Takeda site used VR operator training?",
+   "synthetic": true
+  },
+  {
+   "id": "V025",
+   "theme": "site",
+   "function": "Manufacturing",
+   "market": "Austria",
+   "layer": "Function / country",
+   "channel": "Launch retrospective",
+   "text": "Last launch, batch release at Linz took weeks because release records were collected by email.",
+   "synthetic": true
+  },
+  {
+   "id": "V026",
+   "theme": "site",
+   "function": "Quality",
+   "market": "India",
+   "layer": "Global function",
+   "channel": "Launch retrospective",
+   "text": "We rebuilt the cleanroom training plan at Bengaluru from scratch, then heard another plant already had one.",
+   "synthetic": true
+  },
+  {
+   "id": "V027",
+   "theme": "site",
+   "function": "Engineering",
+   "market": "Japan",
+   "layer": "Project team",
+   "channel": "Launch retrospective",
+   "text": "In the shift huddle at Hikari we discuss the same equipment stopped alarms every week. Is anyone predicting them?",
+   "synthetic": true
+  },
+  {
+   "id": "V028",
+   "theme": "site",
+   "function": "Site Operations",
+   "market": "Germany",
+   "layer": "Regional leader",
+   "channel": "Launch retrospective",
+   "text": "Operator training for new operators at Singen differs from the next plant, even for the same filling process.",
+   "synthetic": true
+  },
+  {
+   "id": "V029",
+   "theme": "site",
+   "function": "Global Supply & Quality",
+   "market": "Austria",
+   "layer": "Site / frontline",
+   "channel": "Launch retrospective",
+   "text": "Why does every plant decide alone how to prevent an unplanned stop? At Vienna the filling line went down twice last month.",
+   "synthetic": true
+  },
+  {
+   "id": "V030",
+   "theme": "site",
+   "function": "Training",
+   "market": "EU",
+   "layer": "Function / country",
+   "channel": "Launch retrospective",
+   "text": "At Lessines our pump failure was only found after the line downtime started. Has any Takeda site tried predictive maintenance?",
+   "synthetic": true
+  },
+  {
+   "id": "V031",
+   "theme": "site",
+   "function": "Site Operations",
+   "market": "US",
+   "layer": "Project team",
+   "channel": "Communities",
+   "text": "Our maintenance log at Brooklyn Park is a spreadsheet nobody reads until an unplanned stop. Who has done this better?",
+   "synthetic": true
+  },
+  {
+   "id": "V032",
+   "theme": "site",
+   "function": "Global Supply & Quality",
+   "market": "US",
+   "layer": "Regional leader",
+   "channel": "Communities",
+   "text": "New operators at Social Circle need months of cleanroom training before they can work alone. Is there a faster qualified method?",
+   "synthetic": true
+  },
+  {
+   "id": "V033",
+   "theme": "site",
+   "function": "Training",
+   "market": "Austria",
+   "layer": "Site / frontline",
+   "channel": "Communities",
+   "text": "Gowning and aseptic steps are taught at Linz from the SOP only. Has a Takeda site used VR operator training?",
+   "synthetic": true
+  },
+  {
+   "id": "V034",
+   "theme": "site",
+   "function": "Manufacturing",
+   "market": "India",
+   "layer": "Function / country",
+   "channel": "Communities",
+   "text": "Last launch, batch release at Bengaluru took weeks because release records were collected by email.",
+   "synthetic": true
+  },
+  {
+   "id": "V035",
+   "theme": "site",
+   "function": "Quality",
+   "market": "Japan",
+   "layer": "Global function",
+   "channel": "Communities",
+   "text": "We rebuilt the cleanroom training plan at Hikari from scratch, then heard another plant already had one.",
+   "synthetic": true
+  },
+  {
+   "id": "V036",
+   "theme": "site",
+   "function": "Engineering",
+   "market": "Germany",
+   "layer": "Project team",
+   "channel": "Communities",
+   "text": "In the shift huddle at Singen we discuss the same equipment stopped alarms every week. Is anyone predicting them?",
+   "synthetic": true
+  },
+  {
+   "id": "V037",
+   "theme": "site",
+   "function": "Site Operations",
+   "market": "Austria",
+   "layer": "Regional leader",
+   "channel": "Communities",
+   "text": "Operator training for new operators at Vienna differs from the next plant, even for the same filling process.",
+   "synthetic": true
+  },
+  {
+   "id": "V038",
+   "theme": "site",
+   "function": "Global Supply & Quality",
+   "market": "EU",
+   "layer": "Site / frontline",
+   "channel": "Communities",
+   "text": "Why does every plant decide alone how to prevent an unplanned stop? At Lessines the filling line went down twice last month.",
+   "synthetic": true
+  },
+  {
+   "id": "V039",
+   "theme": "site",
+   "function": "Training",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Communities",
+   "text": "At Los Angeles our pump failure was only found after the line downtime started. Has any Takeda site tried predictive maintenance?",
+   "synthetic": true
+  },
+  {
+   "id": "V040",
+   "theme": "site",
+   "function": "Manufacturing",
+   "market": "Japan",
+   "layer": "Global function",
+   "channel": "Communities",
+   "text": "Batch release at Osaka still waits on paper release records from three teams. Has another plant shortened this?",
+   "synthetic": true
+  },
+  {
+   "id": "V041",
+   "theme": "site",
+   "function": "Global Supply & Quality",
+   "market": "Austria",
+   "layer": "Regional leader",
+   "channel": "Project forum",
+   "text": "New operators at Linz need months of cleanroom training before they can work alone. Is there a faster qualified method?",
+   "synthetic": true
+  },
+  {
+   "id": "V042",
+   "theme": "site",
+   "function": "Training",
+   "market": "India",
+   "layer": "Site / frontline",
+   "channel": "Project forum",
+   "text": "Gowning and aseptic steps are taught at Bengaluru from the SOP only. Has a Takeda site used VR operator training?",
+   "synthetic": true
+  },
+  {
+   "id": "V043",
+   "theme": "site",
+   "function": "Manufacturing",
+   "market": "Japan",
+   "layer": "Function / country",
+   "channel": "Project forum",
+   "text": "Last launch, batch release at Hikari took weeks because release records were collected by email.",
+   "synthetic": true
+  },
+  {
+   "id": "V044",
+   "theme": "site",
+   "function": "Quality",
+   "market": "Germany",
+   "layer": "Global function",
+   "channel": "Project forum",
+   "text": "We rebuilt the cleanroom training plan at Singen from scratch, then heard another plant already had one.",
+   "synthetic": true
+  },
+  {
+   "id": "V045",
+   "theme": "site",
+   "function": "Engineering",
+   "market": "Austria",
+   "layer": "Project team",
+   "channel": "Project forum",
+   "text": "In the shift huddle at Vienna we discuss the same equipment stopped alarms every week. Is anyone predicting them?",
+   "synthetic": true
+  },
+  {
+   "id": "V046",
+   "theme": "site",
+   "function": "Site Operations",
+   "market": "EU",
+   "layer": "Regional leader",
+   "channel": "Project forum",
+   "text": "Operator training for new operators at Lessines differs from the next plant, even for the same filling process.",
+   "synthetic": true
+  },
+  {
+   "id": "V047",
+   "theme": "site",
+   "function": "Global Supply & Quality",
+   "market": "US",
+   "layer": "Site / frontline",
+   "channel": "Project forum",
+   "text": "Why does every plant decide alone how to prevent an unplanned stop? At Los Angeles the filling line went down twice last month.",
+   "synthetic": true
+  },
+  {
+   "id": "V048",
+   "theme": "site",
+   "function": "Training",
+   "market": "Japan",
+   "layer": "Function / country",
+   "channel": "Project forum",
+   "text": "At Osaka our pump failure was only found after the line downtime started. Has any Takeda site tried predictive maintenance?",
+   "synthetic": true
+  },
+  {
+   "id": "V049",
+   "theme": "site",
+   "function": "Manufacturing",
+   "market": "US",
+   "layer": "Global function",
+   "channel": "Project forum",
+   "text": "Batch release at Brooklyn Park still waits on paper release records from three teams. Has another plant shortened this?",
+   "synthetic": true
+  },
+  {
+   "id": "V050",
+   "theme": "site",
+   "function": "Quality",
+   "market": "US",
+   "layer": "Project team",
+   "channel": "Project forum",
+   "text": "Our maintenance log at Social Circle is a spreadsheet nobody reads until an unplanned stop. Who has done this better?",
+   "synthetic": true
+  },
+  {
+   "id": "V051",
+   "theme": "site",
+   "function": "Training",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Site huddle",
+   "text": "Gowning and aseptic steps are taught at Hikari from the SOP only. Has a Takeda site used VR operator training?",
+   "synthetic": true
+  },
+  {
+   "id": "V052",
+   "theme": "site",
+   "function": "Manufacturing",
+   "market": "Germany",
+   "layer": "Function / country",
+   "channel": "Site huddle",
+   "text": "Last launch, batch release at Singen took weeks because release records were collected by email.",
+   "synthetic": true
+  },
+  {
+   "id": "V053",
+   "theme": "site",
+   "function": "Quality",
+   "market": "Austria",
+   "layer": "Global function",
+   "channel": "Site huddle",
+   "text": "We rebuilt the cleanroom training plan at Vienna from scratch, then heard another plant already had one.",
+   "synthetic": true
+  },
+  {
+   "id": "V054",
+   "theme": "site",
+   "function": "Engineering",
+   "market": "EU",
+   "layer": "Project team",
+   "channel": "Site huddle",
+   "text": "In the shift huddle at Lessines we discuss the same equipment stopped alarms every week. Is anyone predicting them?",
+   "synthetic": true
+  },
+  {
+   "id": "V055",
+   "theme": "site",
+   "function": "Site Operations",
+   "market": "US",
+   "layer": "Regional leader",
+   "channel": "Site huddle",
+   "text": "Operator training for new operators at Los Angeles differs from the next plant, even for the same filling process.",
+   "synthetic": true
+  },
+  {
+   "id": "V056",
+   "theme": "site",
+   "function": "Global Supply & Quality",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Site huddle",
+   "text": "Why does every plant decide alone how to prevent an unplanned stop? At Osaka the filling line went down twice last month.",
+   "synthetic": true
+  },
+  {
+   "id": "V057",
+   "theme": "site",
+   "function": "Training",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Site huddle",
+   "text": "At Brooklyn Park our pump failure was only found after the line downtime started. Has any Takeda site tried predictive maintenance?",
+   "synthetic": true
+  },
+  {
+   "id": "V058",
+   "theme": "site",
+   "function": "Manufacturing",
+   "market": "US",
+   "layer": "Global function",
+   "channel": "Site huddle",
+   "text": "Batch release at Social Circle still waits on paper release records from three teams. Has another plant shortened this?",
+   "synthetic": true
+  },
+  {
+   "id": "V059",
+   "theme": "site",
+   "function": "Quality",
+   "market": "Austria",
+   "layer": "Project team",
+   "channel": "Site huddle",
+   "text": "Our maintenance log at Linz is a spreadsheet nobody reads until an unplanned stop. Who has done this better?",
+   "synthetic": true
+  },
+  {
+   "id": "V060",
+   "theme": "site",
+   "function": "Engineering",
+   "market": "India",
+   "layer": "Regional leader",
+   "channel": "Site huddle",
+   "text": "New operators at Bengaluru need months of cleanroom training before they can work alone. Is there a faster qualified method?",
+   "synthetic": true
+  },
+  {
+   "id": "V061",
+   "theme": "ai",
+   "function": "Legal",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Town hall",
+   "text": "Our Legal team in Japan is about to buy its own AI assistant. Is there an approved AI tool we should use instead?",
+   "synthetic": true
+  },
+  {
+   "id": "V062",
+   "theme": "ai",
+   "function": "Finance",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Town hall",
+   "text": "Which generative AI tool may Finance colleagues in US use with confidential drafts, and who checks it?",
+   "synthetic": true
+  },
+  {
+   "id": "V063",
+   "theme": "ai",
+   "function": "DD&T",
+   "market": "China",
+   "layer": "Global function",
+   "channel": "Town hall",
+   "text": "Three DD&T groups in China built a separate chatbot for the same policy questions. Who decides which one survives?",
+   "synthetic": true
+  },
+  {
+   "id": "V064",
+   "theme": "ai",
+   "function": "Commercial",
+   "market": "EU",
+   "layer": "Project team",
+   "channel": "Town hall",
+   "text": "Can Commercial in EU paste contract text into a GenAI prompt, or does that need a responsible AI review first?",
+   "synthetic": true
+  },
+  {
+   "id": "V065",
+   "theme": "ai",
+   "function": "R&D",
+   "market": "India",
+   "layer": "Regional leader",
+   "channel": "Town hall",
+   "text": "In R&D (India) we trained our own AI model for summaries without knowing an enterprise copilot existed.",
+   "synthetic": true
+  },
+  {
+   "id": "V066",
+   "theme": "ai",
+   "function": "Regulatory",
+   "market": "Brazil",
+   "layer": "Site / frontline",
+   "channel": "Town hall",
+   "text": "Is there a list of approved AI tools for Regulatory in Brazil, or does every team run its own pilot?",
+   "synthetic": true
+  },
+  {
+   "id": "V067",
+   "theme": "ai",
+   "function": "HR",
+   "market": "Singapore",
+   "layer": "Function / country",
+   "channel": "Town hall",
+   "text": "Our HR project in Singapore wants an AI assistant for document review. What responsible AI assessment applies?",
+   "synthetic": true
+  },
+  {
+   "id": "V068",
+   "theme": "ai",
+   "function": "Legal",
+   "market": "Germany",
+   "layer": "Global function",
+   "channel": "Town hall",
+   "text": "The Legal community in Germany keeps sharing prompt tips, but nobody knows which GPT-style tool is approved.",
+   "synthetic": true
+  },
+  {
+   "id": "V069",
+   "theme": "ai",
+   "function": "Finance",
+   "market": "Australia",
+   "layer": "Project team",
+   "channel": "Town hall",
+   "text": "Before Finance in Australia builds another chatbot, can someone show what Takeda already offers?",
+   "synthetic": true
+  },
+  {
+   "id": "V070",
+   "theme": "ai",
+   "function": "DD&T",
+   "market": "Austria",
+   "layer": "Regional leader",
+   "channel": "Town hall",
+   "text": "Shift teams in Austria asked whether an AI tool could read SOPs for them. Which approved AI is allowed on site?",
+   "synthetic": true
+  },
+  {
+   "id": "V071",
+   "theme": "ai",
+   "function": "Finance",
+   "market": "China",
+   "layer": "Function / country",
+   "channel": "Pulse survey",
+   "text": "Which generative AI tool may Finance colleagues in China use with confidential drafts, and who checks it?",
+   "synthetic": true
+  },
+  {
+   "id": "V072",
+   "theme": "ai",
+   "function": "DD&T",
+   "market": "EU",
+   "layer": "Global function",
+   "channel": "Pulse survey",
+   "text": "Three DD&T groups in EU built a separate chatbot for the same policy questions. Who decides which one survives?",
+   "synthetic": true
+  },
+  {
+   "id": "V073",
+   "theme": "ai",
+   "function": "Commercial",
+   "market": "India",
+   "layer": "Project team",
+   "channel": "Pulse survey",
+   "text": "Can Commercial in India paste contract text into a GenAI prompt, or does that need a responsible AI review first?",
+   "synthetic": true
+  },
+  {
+   "id": "V074",
+   "theme": "ai",
+   "function": "R&D",
+   "market": "Brazil",
+   "layer": "Regional leader",
+   "channel": "Pulse survey",
+   "text": "In R&D (Brazil) we trained our own AI model for summaries without knowing an enterprise copilot existed.",
+   "synthetic": true
+  },
+  {
+   "id": "V075",
+   "theme": "ai",
+   "function": "Regulatory",
+   "market": "Singapore",
+   "layer": "Site / frontline",
+   "channel": "Pulse survey",
+   "text": "Is there a list of approved AI tools for Regulatory in Singapore, or does every team run its own pilot?",
+   "synthetic": true
+  },
+  {
+   "id": "V076",
+   "theme": "ai",
+   "function": "HR",
+   "market": "Germany",
+   "layer": "Function / country",
+   "channel": "Pulse survey",
+   "text": "Our HR project in Germany wants an AI assistant for document review. What responsible AI assessment applies?",
+   "synthetic": true
+  },
+  {
+   "id": "V077",
+   "theme": "ai",
+   "function": "Legal",
+   "market": "Australia",
+   "layer": "Global function",
+   "channel": "Pulse survey",
+   "text": "The Legal community in Australia keeps sharing prompt tips, but nobody knows which GPT-style tool is approved.",
+   "synthetic": true
+  },
+  {
+   "id": "V078",
+   "theme": "ai",
+   "function": "Finance",
+   "market": "Austria",
+   "layer": "Project team",
+   "channel": "Pulse survey",
+   "text": "Before Finance in Austria builds another chatbot, can someone show what Takeda already offers?",
+   "synthetic": true
+  },
+  {
+   "id": "V079",
+   "theme": "ai",
+   "function": "DD&T",
+   "market": "Japan",
+   "layer": "Regional leader",
+   "channel": "Pulse survey",
+   "text": "Shift teams in Japan asked whether an AI tool could read SOPs for them. Which approved AI is allowed on site?",
+   "synthetic": true
+  },
+  {
+   "id": "V080",
+   "theme": "ai",
+   "function": "Commercial",
+   "market": "US",
+   "layer": "Site / frontline",
+   "channel": "Pulse survey",
+   "text": "Our Commercial team in US is about to buy its own AI assistant. Is there an approved AI tool we should use instead?",
+   "synthetic": true
+  },
+  {
+   "id": "V081",
+   "theme": "ai",
+   "function": "DD&T",
+   "market": "India",
+   "layer": "Global function",
+   "channel": "Launch retrospective",
+   "text": "Three DD&T groups in India built a separate chatbot for the same policy questions. Who decides which one survives?",
+   "synthetic": true
+  },
+  {
+   "id": "V082",
+   "theme": "ai",
+   "function": "Commercial",
+   "market": "Brazil",
+   "layer": "Project team",
+   "channel": "Launch retrospective",
+   "text": "Can Commercial in Brazil paste contract text into a GenAI prompt, or does that need a responsible AI review first?",
+   "synthetic": true
+  },
+  {
+   "id": "V083",
+   "theme": "ai",
+   "function": "R&D",
+   "market": "Singapore",
+   "layer": "Regional leader",
+   "channel": "Launch retrospective",
+   "text": "In R&D (Singapore) we trained our own AI model for summaries without knowing an enterprise copilot existed.",
+   "synthetic": true
+  },
+  {
+   "id": "V084",
+   "theme": "ai",
+   "function": "Regulatory",
+   "market": "Germany",
+   "layer": "Site / frontline",
+   "channel": "Launch retrospective",
+   "text": "Is there a list of approved AI tools for Regulatory in Germany, or does every team run its own pilot?",
+   "synthetic": true
+  },
+  {
+   "id": "V085",
+   "theme": "ai",
+   "function": "HR",
+   "market": "Australia",
+   "layer": "Function / country",
+   "channel": "Launch retrospective",
+   "text": "Our HR project in Australia wants an AI assistant for document review. What responsible AI assessment applies?",
+   "synthetic": true
+  },
+  {
+   "id": "V086",
+   "theme": "ai",
+   "function": "Legal",
+   "market": "Austria",
+   "layer": "Global function",
+   "channel": "Launch retrospective",
+   "text": "The Legal community in Austria keeps sharing prompt tips, but nobody knows which GPT-style tool is approved.",
+   "synthetic": true
+  },
+  {
+   "id": "V087",
+   "theme": "ai",
+   "function": "Finance",
+   "market": "Japan",
+   "layer": "Project team",
+   "channel": "Launch retrospective",
+   "text": "Before Finance in Japan builds another chatbot, can someone show what Takeda already offers?",
+   "synthetic": true
+  },
+  {
+   "id": "V088",
+   "theme": "ai",
+   "function": "DD&T",
+   "market": "US",
+   "layer": "Regional leader",
+   "channel": "Launch retrospective",
+   "text": "Shift teams in US asked whether an AI tool could read SOPs for them. Which approved AI is allowed on site?",
+   "synthetic": true
+  },
+  {
+   "id": "V089",
+   "theme": "ai",
+   "function": "Commercial",
+   "market": "China",
+   "layer": "Site / frontline",
+   "channel": "Launch retrospective",
+   "text": "Our Commercial team in China is about to buy its own AI assistant. Is there an approved AI tool we should use instead?",
+   "synthetic": true
+  },
+  {
+   "id": "V090",
+   "theme": "ai",
+   "function": "R&D",
+   "market": "EU",
+   "layer": "Function / country",
+   "channel": "Launch retrospective",
+   "text": "Which generative AI tool may R&D colleagues in EU use with confidential drafts, and who checks it?",
+   "synthetic": true
+  },
+  {
+   "id": "V091",
+   "theme": "ai",
+   "function": "Commercial",
+   "market": "Singapore",
+   "layer": "Project team",
+   "channel": "Communities",
+   "text": "Can Commercial in Singapore paste contract text into a GenAI prompt, or does that need a responsible AI review first?",
+   "synthetic": true
+  },
+  {
+   "id": "V092",
+   "theme": "ai",
+   "function": "R&D",
+   "market": "Germany",
+   "layer": "Regional leader",
+   "channel": "Communities",
+   "text": "In R&D (Germany) we trained our own AI model for summaries without knowing an enterprise copilot existed.",
+   "synthetic": true
+  },
+  {
+   "id": "V093",
+   "theme": "ai",
+   "function": "Regulatory",
+   "market": "Australia",
+   "layer": "Site / frontline",
+   "channel": "Communities",
+   "text": "Is there a list of approved AI tools for Regulatory in Australia, or does every team run its own pilot?",
+   "synthetic": true
+  },
+  {
+   "id": "V094",
+   "theme": "ai",
+   "function": "HR",
+   "market": "Austria",
+   "layer": "Function / country",
+   "channel": "Communities",
+   "text": "Our HR project in Austria wants an AI assistant for document review. What responsible AI assessment applies?",
+   "synthetic": true
+  },
+  {
+   "id": "V095",
+   "theme": "ai",
+   "function": "Legal",
+   "market": "Japan",
+   "layer": "Global function",
+   "channel": "Communities",
+   "text": "The Legal community in Japan keeps sharing prompt tips, but nobody knows which GPT-style tool is approved.",
+   "synthetic": true
+  },
+  {
+   "id": "V096",
+   "theme": "ai",
+   "function": "Finance",
+   "market": "US",
+   "layer": "Project team",
+   "channel": "Communities",
+   "text": "Before Finance in US builds another chatbot, can someone show what Takeda already offers?",
+   "synthetic": true
+  },
+  {
+   "id": "V097",
+   "theme": "ai",
+   "function": "DD&T",
+   "market": "China",
+   "layer": "Regional leader",
+   "channel": "Communities",
+   "text": "Shift teams in China asked whether an AI tool could read SOPs for them. Which approved AI is allowed on site?",
+   "synthetic": true
+  },
+  {
+   "id": "V098",
+   "theme": "ai",
+   "function": "Commercial",
+   "market": "EU",
+   "layer": "Site / frontline",
+   "channel": "Communities",
+   "text": "Our Commercial team in EU is about to buy its own AI assistant. Is there an approved AI tool we should use instead?",
+   "synthetic": true
+  },
+  {
+   "id": "V099",
+   "theme": "ai",
+   "function": "R&D",
+   "market": "India",
+   "layer": "Function / country",
+   "channel": "Communities",
+   "text": "Which generative AI tool may R&D colleagues in India use with confidential drafts, and who checks it?",
+   "synthetic": true
+  },
+  {
+   "id": "V100",
+   "theme": "ai",
+   "function": "Regulatory",
+   "market": "Brazil",
+   "layer": "Global function",
+   "channel": "Communities",
+   "text": "Three Regulatory groups in Brazil built a separate chatbot for the same policy questions. Who decides which one survives?",
+   "synthetic": true
+  },
+  {
+   "id": "V101",
+   "theme": "ai",
+   "function": "R&D",
+   "market": "Australia",
+   "layer": "Regional leader",
+   "channel": "Project forum",
+   "text": "In R&D (Australia) we trained our own AI model for summaries without knowing an enterprise copilot existed.",
+   "synthetic": true
+  },
+  {
+   "id": "V102",
+   "theme": "ai",
+   "function": "Regulatory",
+   "market": "Austria",
+   "layer": "Site / frontline",
+   "channel": "Project forum",
+   "text": "Is there a list of approved AI tools for Regulatory in Austria, or does every team run its own pilot?",
+   "synthetic": true
+  },
+  {
+   "id": "V103",
+   "theme": "ai",
+   "function": "HR",
+   "market": "Japan",
+   "layer": "Function / country",
+   "channel": "Project forum",
+   "text": "Our HR project in Japan wants an AI assistant for document review. What responsible AI assessment applies?",
+   "synthetic": true
+  },
+  {
+   "id": "V104",
+   "theme": "ai",
+   "function": "Legal",
+   "market": "US",
+   "layer": "Global function",
+   "channel": "Project forum",
+   "text": "The Legal community in US keeps sharing prompt tips, but nobody knows which GPT-style tool is approved.",
+   "synthetic": true
+  },
+  {
+   "id": "V105",
+   "theme": "ai",
+   "function": "Finance",
+   "market": "China",
+   "layer": "Project team",
+   "channel": "Project forum",
+   "text": "Before Finance in China builds another chatbot, can someone show what Takeda already offers?",
+   "synthetic": true
+  },
+  {
+   "id": "V106",
+   "theme": "ai",
+   "function": "DD&T",
+   "market": "EU",
+   "layer": "Regional leader",
+   "channel": "Project forum",
+   "text": "Shift teams in EU asked whether an AI tool could read SOPs for them. Which approved AI is allowed on site?",
+   "synthetic": true
+  },
+  {
+   "id": "V107",
+   "theme": "ai",
+   "function": "Commercial",
+   "market": "India",
+   "layer": "Site / frontline",
+   "channel": "Project forum",
+   "text": "Our Commercial team in India is about to buy its own AI assistant. Is there an approved AI tool we should use instead?",
+   "synthetic": true
+  },
+  {
+   "id": "V108",
+   "theme": "ai",
+   "function": "R&D",
+   "market": "Brazil",
+   "layer": "Function / country",
+   "channel": "Project forum",
+   "text": "Which generative AI tool may R&D colleagues in Brazil use with confidential drafts, and who checks it?",
+   "synthetic": true
+  },
+  {
+   "id": "V109",
+   "theme": "ai",
+   "function": "Regulatory",
+   "market": "Singapore",
+   "layer": "Global function",
+   "channel": "Project forum",
+   "text": "Three Regulatory groups in Singapore built a separate chatbot for the same policy questions. Who decides which one survives?",
+   "synthetic": true
+  },
+  {
+   "id": "V110",
+   "theme": "ai",
+   "function": "HR",
+   "market": "Germany",
+   "layer": "Project team",
+   "channel": "Project forum",
+   "text": "Can HR in Germany paste contract text into a GenAI prompt, or does that need a responsible AI review first?",
+   "synthetic": true
+  },
+  {
+   "id": "V111",
+   "theme": "ai",
+   "function": "Regulatory",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Site huddle",
+   "text": "Is there a list of approved AI tools for Regulatory in Japan, or does every team run its own pilot?",
+   "synthetic": true
+  },
+  {
+   "id": "V112",
+   "theme": "ai",
+   "function": "HR",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Site huddle",
+   "text": "Our HR project in US wants an AI assistant for document review. What responsible AI assessment applies?",
+   "synthetic": true
+  },
+  {
+   "id": "V113",
+   "theme": "ai",
+   "function": "Legal",
+   "market": "China",
+   "layer": "Global function",
+   "channel": "Site huddle",
+   "text": "The Legal community in China keeps sharing prompt tips, but nobody knows which GPT-style tool is approved.",
+   "synthetic": true
+  },
+  {
+   "id": "V114",
+   "theme": "ai",
+   "function": "Finance",
+   "market": "EU",
+   "layer": "Project team",
+   "channel": "Site huddle",
+   "text": "Before Finance in EU builds another chatbot, can someone show what Takeda already offers?",
+   "synthetic": true
+  },
+  {
+   "id": "V115",
+   "theme": "ai",
+   "function": "DD&T",
+   "market": "India",
+   "layer": "Regional leader",
+   "channel": "Site huddle",
+   "text": "Shift teams in India asked whether an AI tool could read SOPs for them. Which approved AI is allowed on site?",
+   "synthetic": true
+  },
+  {
+   "id": "V116",
+   "theme": "ai",
+   "function": "Commercial",
+   "market": "Brazil",
+   "layer": "Site / frontline",
+   "channel": "Site huddle",
+   "text": "Our Commercial team in Brazil is about to buy its own AI assistant. Is there an approved AI tool we should use instead?",
+   "synthetic": true
+  },
+  {
+   "id": "V117",
+   "theme": "ai",
+   "function": "R&D",
+   "market": "Singapore",
+   "layer": "Function / country",
+   "channel": "Site huddle",
+   "text": "Which generative AI tool may R&D colleagues in Singapore use with confidential drafts, and who checks it?",
+   "synthetic": true
+  },
+  {
+   "id": "V118",
+   "theme": "ai",
+   "function": "Regulatory",
+   "market": "Germany",
+   "layer": "Global function",
+   "channel": "Site huddle",
+   "text": "Three Regulatory groups in Germany built a separate chatbot for the same policy questions. Who decides which one survives?",
+   "synthetic": true
+  },
+  {
+   "id": "V119",
+   "theme": "ai",
+   "function": "HR",
+   "market": "Australia",
+   "layer": "Project team",
+   "channel": "Site huddle",
+   "text": "Can HR in Australia paste contract text into a GenAI prompt, or does that need a responsible AI review first?",
+   "synthetic": true
+  },
+  {
+   "id": "V120",
+   "theme": "ai",
+   "function": "Legal",
+   "market": "Austria",
+   "layer": "Regional leader",
+   "channel": "Site huddle",
+   "text": "In Legal (Austria) we trained our own AI model for summaries without knowing an enterprise copilot existed.",
+   "synthetic": true
+  },
+  {
+   "id": "V121",
+   "theme": "hcp",
+   "function": "Medical",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Town hall",
+   "text": "Physicians in Japan keep asking the same first questions about ORZEYFUL. Did Japan or China already capture them?",
+   "synthetic": true
+  },
+  {
+   "id": "V122",
+   "theme": "hcp",
+   "function": "MSL",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Town hall",
+   "text": "Our US MSL team is writing a scientific exchange plan from zero. What did the first launch countries learn?",
+   "synthetic": true
+  },
+  {
+   "id": "V123",
+   "theme": "hcp",
+   "function": "Commercial",
+   "market": "China",
+   "layer": "Global function",
+   "channel": "Town hall",
+   "text": "Doctors in China want to understand a first-in-class mechanism. Is there an approved medical education framework we can adapt?",
+   "synthetic": true
+  },
+  {
+   "id": "V124",
+   "theme": "hcp",
+   "function": "Medical Affairs",
+   "market": "EU",
+   "layer": "Project team",
+   "channel": "Town hall",
+   "text": "We built a speaker programme slide deck in EU, then found another country had a similar one under review.",
+   "synthetic": true
+  },
+  {
+   "id": "V125",
+   "theme": "hcp",
+   "function": "Medical Information",
+   "market": "India",
+   "layer": "Regional leader",
+   "channel": "Town hall",
+   "text": "Field colleagues in India ask which HCP materials are approved locally versus only in the first launch country.",
+   "synthetic": true
+  },
+  {
+   "id": "V126",
+   "theme": "hcp",
+   "function": "Training",
+   "market": "Brazil",
+   "layer": "Site / frontline",
+   "channel": "Town hall",
+   "text": "Prescriber questions in Brazil differ by specialty. Who has already mapped them for a new medicine?",
+   "synthetic": true
+  },
+  {
+   "id": "V127",
+   "theme": "hcp",
+   "function": "Medical",
+   "market": "Singapore",
+   "layer": "Function / country",
+   "channel": "Town hall",
+   "text": "In the last launch, Singapore medical education started late because nobody knew what other markets had prepared.",
+   "synthetic": true
+  },
+  {
+   "id": "V128",
+   "theme": "hcp",
+   "function": "MSL",
+   "market": "Germany",
+   "layer": "Global function",
+   "channel": "Town hall",
+   "text": "Sleep physicians in Germany ask about the evidence behind ORZEYFUL. Which scientific exchange content is approved here?",
+   "synthetic": true
+  },
+  {
+   "id": "V129",
+   "theme": "hcp",
+   "function": "Commercial",
+   "market": "Australia",
+   "layer": "Project team",
+   "channel": "Town hall",
+   "text": "Dermatology doctors in Australia will ask how zasocitinib compares with existing pills. Who is preparing the HCP answer?",
+   "synthetic": true
+  },
+  {
+   "id": "V130",
+   "theme": "hcp",
+   "function": "Medical Affairs",
+   "market": "Austria",
+   "layer": "Regional leader",
+   "channel": "Town hall",
+   "text": "Hematology physicians in Austria need training on MIMRYLO self-injection. Has any market built this HCP content?",
+   "synthetic": true
+  },
+  {
+   "id": "V131",
+   "theme": "hcp",
+   "function": "MSL",
+   "market": "China",
+   "layer": "Function / country",
+   "channel": "Pulse survey",
+   "text": "Our China MSL team is writing a scientific exchange plan from zero. What did the first launch countries learn?",
+   "synthetic": true
+  },
+  {
+   "id": "V132",
+   "theme": "hcp",
+   "function": "Commercial",
+   "market": "EU",
+   "layer": "Global function",
+   "channel": "Pulse survey",
+   "text": "Doctors in EU want to understand a first-in-class mechanism. Is there an approved medical education framework we can adapt?",
+   "synthetic": true
+  },
+  {
+   "id": "V133",
+   "theme": "hcp",
+   "function": "Medical Affairs",
+   "market": "India",
+   "layer": "Project team",
+   "channel": "Pulse survey",
+   "text": "We built a speaker programme slide deck in India, then found another country had a similar one under review.",
+   "synthetic": true
+  },
+  {
+   "id": "V134",
+   "theme": "hcp",
+   "function": "Medical Information",
+   "market": "Brazil",
+   "layer": "Regional leader",
+   "channel": "Pulse survey",
+   "text": "Field colleagues in Brazil ask which HCP materials are approved locally versus only in the first launch country.",
+   "synthetic": true
+  },
+  {
+   "id": "V135",
+   "theme": "hcp",
+   "function": "Training",
+   "market": "Singapore",
+   "layer": "Site / frontline",
+   "channel": "Pulse survey",
+   "text": "Prescriber questions in Singapore differ by specialty. Who has already mapped them for a new medicine?",
+   "synthetic": true
+  },
+  {
+   "id": "V136",
+   "theme": "hcp",
+   "function": "Medical",
+   "market": "Germany",
+   "layer": "Function / country",
+   "channel": "Pulse survey",
+   "text": "In the last launch, Germany medical education started late because nobody knew what other markets had prepared.",
+   "synthetic": true
+  },
+  {
+   "id": "V137",
+   "theme": "hcp",
+   "function": "MSL",
+   "market": "Australia",
+   "layer": "Global function",
+   "channel": "Pulse survey",
+   "text": "Sleep physicians in Australia ask about the evidence behind ORZEYFUL. Which scientific exchange content is approved here?",
+   "synthetic": true
+  },
+  {
+   "id": "V138",
+   "theme": "hcp",
+   "function": "Commercial",
+   "market": "Austria",
+   "layer": "Project team",
+   "channel": "Pulse survey",
+   "text": "Dermatology doctors in Austria will ask how zasocitinib compares with existing pills. Who is preparing the HCP answer?",
+   "synthetic": true
+  },
+  {
+   "id": "V139",
+   "theme": "hcp",
+   "function": "Medical Affairs",
+   "market": "Japan",
+   "layer": "Regional leader",
+   "channel": "Pulse survey",
+   "text": "Hematology physicians in Japan need training on MIMRYLO self-injection. Has any market built this HCP content?",
+   "synthetic": true
+  },
+  {
+   "id": "V140",
+   "theme": "hcp",
+   "function": "Medical Information",
+   "market": "US",
+   "layer": "Site / frontline",
+   "channel": "Pulse survey",
+   "text": "Physicians in US keep asking the same first questions about ORZEYFUL. Did Japan or China already capture them?",
+   "synthetic": true
+  },
+  {
+   "id": "V141",
+   "theme": "hcp",
+   "function": "Commercial",
+   "market": "India",
+   "layer": "Global function",
+   "channel": "Launch retrospective",
+   "text": "Doctors in India want to understand a first-in-class mechanism. Is there an approved medical education framework we can adapt?",
+   "synthetic": true
+  },
+  {
+   "id": "V142",
+   "theme": "hcp",
+   "function": "Medical Affairs",
+   "market": "Brazil",
+   "layer": "Project team",
+   "channel": "Launch retrospective",
+   "text": "We built a speaker programme slide deck in Brazil, then found another country had a similar one under review.",
+   "synthetic": true
+  },
+  {
+   "id": "V143",
+   "theme": "hcp",
+   "function": "Medical Information",
+   "market": "Singapore",
+   "layer": "Regional leader",
+   "channel": "Launch retrospective",
+   "text": "Field colleagues in Singapore ask which HCP materials are approved locally versus only in the first launch country.",
+   "synthetic": true
+  },
+  {
+   "id": "V144",
+   "theme": "hcp",
+   "function": "Training",
+   "market": "Germany",
+   "layer": "Site / frontline",
+   "channel": "Launch retrospective",
+   "text": "Prescriber questions in Germany differ by specialty. Who has already mapped them for a new medicine?",
+   "synthetic": true
+  },
+  {
+   "id": "V145",
+   "theme": "hcp",
+   "function": "Medical",
+   "market": "Australia",
+   "layer": "Function / country",
+   "channel": "Launch retrospective",
+   "text": "In the last launch, Australia medical education started late because nobody knew what other markets had prepared.",
+   "synthetic": true
+  },
+  {
+   "id": "V146",
+   "theme": "hcp",
+   "function": "MSL",
+   "market": "Austria",
+   "layer": "Global function",
+   "channel": "Launch retrospective",
+   "text": "Sleep physicians in Austria ask about the evidence behind ORZEYFUL. Which scientific exchange content is approved here?",
+   "synthetic": true
+  },
+  {
+   "id": "V147",
+   "theme": "hcp",
+   "function": "Commercial",
+   "market": "Japan",
+   "layer": "Project team",
+   "channel": "Launch retrospective",
+   "text": "Dermatology doctors in Japan will ask how zasocitinib compares with existing pills. Who is preparing the HCP answer?",
+   "synthetic": true
+  },
+  {
+   "id": "V148",
+   "theme": "hcp",
+   "function": "Medical Affairs",
+   "market": "US",
+   "layer": "Regional leader",
+   "channel": "Launch retrospective",
+   "text": "Hematology physicians in US need training on MIMRYLO self-injection. Has any market built this HCP content?",
+   "synthetic": true
+  },
+  {
+   "id": "V149",
+   "theme": "hcp",
+   "function": "Medical Information",
+   "market": "China",
+   "layer": "Site / frontline",
+   "channel": "Launch retrospective",
+   "text": "Physicians in China keep asking the same first questions about ORZEYFUL. Did Japan or China already capture them?",
+   "synthetic": true
+  },
+  {
+   "id": "V150",
+   "theme": "hcp",
+   "function": "Training",
+   "market": "EU",
+   "layer": "Function / country",
+   "channel": "Launch retrospective",
+   "text": "Our EU MSL team is writing a scientific exchange plan from zero. What did the first launch countries learn?",
+   "synthetic": true
+  },
+  {
+   "id": "V151",
+   "theme": "hcp",
+   "function": "Medical Affairs",
+   "market": "Singapore",
+   "layer": "Project team",
+   "channel": "Communities",
+   "text": "We built a speaker programme slide deck in Singapore, then found another country had a similar one under review.",
+   "synthetic": true
+  },
+  {
+   "id": "V152",
+   "theme": "hcp",
+   "function": "Medical Information",
+   "market": "Germany",
+   "layer": "Regional leader",
+   "channel": "Communities",
+   "text": "Field colleagues in Germany ask which HCP materials are approved locally versus only in the first launch country.",
+   "synthetic": true
+  },
+  {
+   "id": "V153",
+   "theme": "hcp",
+   "function": "Training",
+   "market": "Australia",
+   "layer": "Site / frontline",
+   "channel": "Communities",
+   "text": "Prescriber questions in Australia differ by specialty. Who has already mapped them for a new medicine?",
+   "synthetic": true
+  },
+  {
+   "id": "V154",
+   "theme": "hcp",
+   "function": "Medical",
+   "market": "Austria",
+   "layer": "Function / country",
+   "channel": "Communities",
+   "text": "In the last launch, Austria medical education started late because nobody knew what other markets had prepared.",
+   "synthetic": true
+  },
+  {
+   "id": "V155",
+   "theme": "hcp",
+   "function": "MSL",
+   "market": "Japan",
+   "layer": "Global function",
+   "channel": "Communities",
+   "text": "Sleep physicians in Japan ask about the evidence behind ORZEYFUL. Which scientific exchange content is approved here?",
+   "synthetic": true
+  },
+  {
+   "id": "V156",
+   "theme": "hcp",
+   "function": "Commercial",
+   "market": "US",
+   "layer": "Project team",
+   "channel": "Communities",
+   "text": "Dermatology doctors in US will ask how zasocitinib compares with existing pills. Who is preparing the HCP answer?",
+   "synthetic": true
+  },
+  {
+   "id": "V157",
+   "theme": "hcp",
+   "function": "Medical Affairs",
+   "market": "China",
+   "layer": "Regional leader",
+   "channel": "Communities",
+   "text": "Hematology physicians in China need training on MIMRYLO self-injection. Has any market built this HCP content?",
+   "synthetic": true
+  },
+  {
+   "id": "V158",
+   "theme": "hcp",
+   "function": "Medical Information",
+   "market": "EU",
+   "layer": "Site / frontline",
+   "channel": "Communities",
+   "text": "Physicians in EU keep asking the same first questions about ORZEYFUL. Did Japan or China already capture them?",
+   "synthetic": true
+  },
+  {
+   "id": "V159",
+   "theme": "hcp",
+   "function": "Training",
+   "market": "India",
+   "layer": "Function / country",
+   "channel": "Communities",
+   "text": "Our India MSL team is writing a scientific exchange plan from zero. What did the first launch countries learn?",
+   "synthetic": true
+  },
+  {
+   "id": "V160",
+   "theme": "hcp",
+   "function": "Medical",
+   "market": "Brazil",
+   "layer": "Global function",
+   "channel": "Communities",
+   "text": "Doctors in Brazil want to understand a first-in-class mechanism. Is there an approved medical education framework we can adapt?",
+   "synthetic": true
+  },
+  {
+   "id": "V161",
+   "theme": "hcp",
+   "function": "Medical Information",
+   "market": "Australia",
+   "layer": "Regional leader",
+   "channel": "Project forum",
+   "text": "Field colleagues in Australia ask which HCP materials are approved locally versus only in the first launch country.",
+   "synthetic": true
+  },
+  {
+   "id": "V162",
+   "theme": "hcp",
+   "function": "Training",
+   "market": "Austria",
+   "layer": "Site / frontline",
+   "channel": "Project forum",
+   "text": "Prescriber questions in Austria differ by specialty. Who has already mapped them for a new medicine?",
+   "synthetic": true
+  },
+  {
+   "id": "V163",
+   "theme": "hcp",
+   "function": "Medical",
+   "market": "Japan",
+   "layer": "Function / country",
+   "channel": "Project forum",
+   "text": "In the last launch, Japan medical education started late because nobody knew what other markets had prepared.",
+   "synthetic": true
+  },
+  {
+   "id": "V164",
+   "theme": "hcp",
+   "function": "MSL",
+   "market": "US",
+   "layer": "Global function",
+   "channel": "Project forum",
+   "text": "Sleep physicians in US ask about the evidence behind ORZEYFUL. Which scientific exchange content is approved here?",
+   "synthetic": true
+  },
+  {
+   "id": "V165",
+   "theme": "hcp",
+   "function": "Commercial",
+   "market": "China",
+   "layer": "Project team",
+   "channel": "Project forum",
+   "text": "Dermatology doctors in China will ask how zasocitinib compares with existing pills. Who is preparing the HCP answer?",
+   "synthetic": true
+  },
+  {
+   "id": "V166",
+   "theme": "hcp",
+   "function": "Medical Affairs",
+   "market": "EU",
+   "layer": "Regional leader",
+   "channel": "Project forum",
+   "text": "Hematology physicians in EU need training on MIMRYLO self-injection. Has any market built this HCP content?",
+   "synthetic": true
+  },
+  {
+   "id": "V167",
+   "theme": "hcp",
+   "function": "Medical Information",
+   "market": "India",
+   "layer": "Site / frontline",
+   "channel": "Project forum",
+   "text": "Physicians in India keep asking the same first questions about ORZEYFUL. Did Japan or China already capture them?",
+   "synthetic": true
+  },
+  {
+   "id": "V168",
+   "theme": "hcp",
+   "function": "Training",
+   "market": "Brazil",
+   "layer": "Function / country",
+   "channel": "Project forum",
+   "text": "Our Brazil MSL team is writing a scientific exchange plan from zero. What did the first launch countries learn?",
+   "synthetic": true
+  },
+  {
+   "id": "V169",
+   "theme": "hcp",
+   "function": "Medical",
+   "market": "Singapore",
+   "layer": "Global function",
+   "channel": "Project forum",
+   "text": "Doctors in Singapore want to understand a first-in-class mechanism. Is there an approved medical education framework we can adapt?",
+   "synthetic": true
+  },
+  {
+   "id": "V170",
+   "theme": "hcp",
+   "function": "MSL",
+   "market": "Germany",
+   "layer": "Project team",
+   "channel": "Project forum",
+   "text": "We built a speaker programme slide deck in Germany, then found another country had a similar one under review.",
+   "synthetic": true
+  },
+  {
+   "id": "V171",
+   "theme": "hcp",
+   "function": "Training",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Site huddle",
+   "text": "Prescriber questions in Japan differ by specialty. Who has already mapped them for a new medicine?",
+   "synthetic": true
+  },
+  {
+   "id": "V172",
+   "theme": "hcp",
+   "function": "Medical",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Site huddle",
+   "text": "In the last launch, US medical education started late because nobody knew what other markets had prepared.",
+   "synthetic": true
+  },
+  {
+   "id": "V173",
+   "theme": "hcp",
+   "function": "MSL",
+   "market": "China",
+   "layer": "Global function",
+   "channel": "Site huddle",
+   "text": "Sleep physicians in China ask about the evidence behind ORZEYFUL. Which scientific exchange content is approved here?",
+   "synthetic": true
+  },
+  {
+   "id": "V174",
+   "theme": "hcp",
+   "function": "Commercial",
+   "market": "EU",
+   "layer": "Project team",
+   "channel": "Site huddle",
+   "text": "Dermatology doctors in EU will ask how zasocitinib compares with existing pills. Who is preparing the HCP answer?",
+   "synthetic": true
+  },
+  {
+   "id": "V175",
+   "theme": "hcp",
+   "function": "Medical Affairs",
+   "market": "India",
+   "layer": "Regional leader",
+   "channel": "Site huddle",
+   "text": "Hematology physicians in India need training on MIMRYLO self-injection. Has any market built this HCP content?",
+   "synthetic": true
+  },
+  {
+   "id": "V176",
+   "theme": "hcp",
+   "function": "Medical Information",
+   "market": "Brazil",
+   "layer": "Site / frontline",
+   "channel": "Site huddle",
+   "text": "Physicians in Brazil keep asking the same first questions about ORZEYFUL. Did Japan or China already capture them?",
+   "synthetic": true
+  },
+  {
+   "id": "V177",
+   "theme": "hcp",
+   "function": "Training",
+   "market": "Singapore",
+   "layer": "Function / country",
+   "channel": "Site huddle",
+   "text": "Our Singapore MSL team is writing a scientific exchange plan from zero. What did the first launch countries learn?",
+   "synthetic": true
+  },
+  {
+   "id": "V178",
+   "theme": "hcp",
+   "function": "Medical",
+   "market": "Germany",
+   "layer": "Global function",
+   "channel": "Site huddle",
+   "text": "Doctors in Germany want to understand a first-in-class mechanism. Is there an approved medical education framework we can adapt?",
+   "synthetic": true
+  },
+  {
+   "id": "V179",
+   "theme": "hcp",
+   "function": "MSL",
+   "market": "Australia",
+   "layer": "Project team",
+   "channel": "Site huddle",
+   "text": "We built a speaker programme slide deck in Australia, then found another country had a similar one under review.",
+   "synthetic": true
+  },
+  {
+   "id": "V180",
+   "theme": "hcp",
+   "function": "Commercial",
+   "market": "Austria",
+   "layer": "Regional leader",
+   "channel": "Site huddle",
+   "text": "Field colleagues in Austria ask which HCP materials are approved locally versus only in the first launch country.",
+   "synthetic": true
+  },
+  {
+   "id": "V181",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Town hall",
+   "text": "Patients with narcolepsy in Japan take years to reach a sleep study. Has another country mapped the referral path?",
+   "synthetic": true
+  },
+  {
+   "id": "V182",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Town hall",
+   "text": "In US many people are misdiagnosed with depression before narcolepsy. Who has worked on earlier diagnosis?",
+   "synthetic": true
+  },
+  {
+   "id": "V183",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "China",
+   "layer": "Global function",
+   "channel": "Town hall",
+   "text": "Our China access plan assumes patients are diagnosed, but the referral from primary care is the real gap.",
+   "synthetic": true
+  },
+  {
+   "id": "V184",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "EU",
+   "layer": "Project team",
+   "channel": "Town hall",
+   "text": "We are drawing a patient journey for EU from scratch. Did any first-launch country already build one?",
+   "synthetic": true
+  },
+  {
+   "id": "V185",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "India",
+   "layer": "Regional leader",
+   "channel": "Town hall",
+   "text": "Screening for polycythemia vera in India depends on routine blood tests. Who knows how patients reach a hematologist?",
+   "synthetic": true
+  },
+  {
+   "id": "V186",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "Brazil",
+   "layer": "Site / frontline",
+   "channel": "Town hall",
+   "text": "Patient groups in Brazil say diagnosis delay is the main barrier. Can we learn from Takeda's work elsewhere?",
+   "synthetic": true
+  },
+  {
+   "id": "V187",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "Singapore",
+   "layer": "Function / country",
+   "channel": "Town hall",
+   "text": "In the last launch, the Singapore patient pathway was mapped after launch instead of before.",
+   "synthetic": true
+  },
+  {
+   "id": "V188",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "Germany",
+   "layer": "Global function",
+   "channel": "Town hall",
+   "text": "Primary-care colleagues in Germany rarely refer patients for a sleep study. Has anyone tested a referral approach?",
+   "synthetic": true
+  },
+  {
+   "id": "V189",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "Australia",
+   "layer": "Project team",
+   "channel": "Town hall",
+   "text": "The Australia team wants a diagnosis awareness campaign. Which country has evidence on what shortened the patient pathway?",
+   "synthetic": true
+  },
+  {
+   "id": "V190",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "Austria",
+   "layer": "Regional leader",
+   "channel": "Town hall",
+   "text": "Patients in Austria wait years to reach specialist care; each country seems to map this patient pathway alone.",
+   "synthetic": true
+  },
+  {
+   "id": "V191",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "China",
+   "layer": "Function / country",
+   "channel": "Pulse survey",
+   "text": "In China many people are misdiagnosed with depression before narcolepsy. Who has worked on earlier diagnosis?",
+   "synthetic": true
+  },
+  {
+   "id": "V192",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "EU",
+   "layer": "Global function",
+   "channel": "Pulse survey",
+   "text": "Our EU access plan assumes patients are diagnosed, but the referral from primary care is the real gap.",
+   "synthetic": true
+  },
+  {
+   "id": "V193",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "India",
+   "layer": "Project team",
+   "channel": "Pulse survey",
+   "text": "We are drawing a patient journey for India from scratch. Did any first-launch country already build one?",
+   "synthetic": true
+  },
+  {
+   "id": "V194",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "Brazil",
+   "layer": "Regional leader",
+   "channel": "Pulse survey",
+   "text": "Screening for polycythemia vera in Brazil depends on routine blood tests. Who knows how patients reach a hematologist?",
+   "synthetic": true
+  },
+  {
+   "id": "V195",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "Singapore",
+   "layer": "Site / frontline",
+   "channel": "Pulse survey",
+   "text": "Patient groups in Singapore say diagnosis delay is the main barrier. Can we learn from Takeda's work elsewhere?",
+   "synthetic": true
+  },
+  {
+   "id": "V196",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "Germany",
+   "layer": "Function / country",
+   "channel": "Pulse survey",
+   "text": "In the last launch, the Germany patient pathway was mapped after launch instead of before.",
+   "synthetic": true
+  },
+  {
+   "id": "V197",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "Australia",
+   "layer": "Global function",
+   "channel": "Pulse survey",
+   "text": "Primary-care colleagues in Australia rarely refer patients for a sleep study. Has anyone tested a referral approach?",
+   "synthetic": true
+  },
+  {
+   "id": "V198",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "Austria",
+   "layer": "Project team",
+   "channel": "Pulse survey",
+   "text": "The Austria team wants a diagnosis awareness campaign. Which country has evidence on what shortened the patient pathway?",
+   "synthetic": true
+  },
+  {
+   "id": "V199",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "Japan",
+   "layer": "Regional leader",
+   "channel": "Pulse survey",
+   "text": "Patients in Japan wait years to reach specialist care; each country seems to map this patient pathway alone.",
+   "synthetic": true
+  },
+  {
+   "id": "V200",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "US",
+   "layer": "Site / frontline",
+   "channel": "Pulse survey",
+   "text": "Patients with narcolepsy in US take years to reach a sleep study. Has another country mapped the referral path?",
+   "synthetic": true
+  },
+  {
+   "id": "V201",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "India",
+   "layer": "Global function",
+   "channel": "Launch retrospective",
+   "text": "Our India access plan assumes patients are diagnosed, but the referral from primary care is the real gap.",
+   "synthetic": true
+  },
+  {
+   "id": "V202",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "Brazil",
+   "layer": "Project team",
+   "channel": "Launch retrospective",
+   "text": "We are drawing a patient journey for Brazil from scratch. Did any first-launch country already build one?",
+   "synthetic": true
+  },
+  {
+   "id": "V203",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "Singapore",
+   "layer": "Regional leader",
+   "channel": "Launch retrospective",
+   "text": "Screening for polycythemia vera in Singapore depends on routine blood tests. Who knows how patients reach a hematologist?",
+   "synthetic": true
+  },
+  {
+   "id": "V204",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "Germany",
+   "layer": "Site / frontline",
+   "channel": "Launch retrospective",
+   "text": "Patient groups in Germany say diagnosis delay is the main barrier. Can we learn from Takeda's work elsewhere?",
+   "synthetic": true
+  },
+  {
+   "id": "V205",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "Australia",
+   "layer": "Function / country",
+   "channel": "Launch retrospective",
+   "text": "In the last launch, the Australia patient pathway was mapped after launch instead of before.",
+   "synthetic": true
+  },
+  {
+   "id": "V206",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "Austria",
+   "layer": "Global function",
+   "channel": "Launch retrospective",
+   "text": "Primary-care colleagues in Austria rarely refer patients for a sleep study. Has anyone tested a referral approach?",
+   "synthetic": true
+  },
+  {
+   "id": "V207",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "Japan",
+   "layer": "Project team",
+   "channel": "Launch retrospective",
+   "text": "The Japan team wants a diagnosis awareness campaign. Which country has evidence on what shortened the patient pathway?",
+   "synthetic": true
+  },
+  {
+   "id": "V208",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "US",
+   "layer": "Regional leader",
+   "channel": "Launch retrospective",
+   "text": "Patients in US wait years to reach specialist care; each country seems to map this patient pathway alone.",
+   "synthetic": true
+  },
+  {
+   "id": "V209",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "China",
+   "layer": "Site / frontline",
+   "channel": "Launch retrospective",
+   "text": "Patients with narcolepsy in China take years to reach a sleep study. Has another country mapped the referral path?",
+   "synthetic": true
+  },
+  {
+   "id": "V210",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "EU",
+   "layer": "Function / country",
+   "channel": "Launch retrospective",
+   "text": "In EU many people are misdiagnosed with depression before narcolepsy. Who has worked on earlier diagnosis?",
+   "synthetic": true
+  },
+  {
+   "id": "V211",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "Singapore",
+   "layer": "Project team",
+   "channel": "Communities",
+   "text": "We are drawing a patient journey for Singapore from scratch. Did any first-launch country already build one?",
+   "synthetic": true
+  },
+  {
+   "id": "V212",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "Germany",
+   "layer": "Regional leader",
+   "channel": "Communities",
+   "text": "Screening for polycythemia vera in Germany depends on routine blood tests. Who knows how patients reach a hematologist?",
+   "synthetic": true
+  },
+  {
+   "id": "V213",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "Australia",
+   "layer": "Site / frontline",
+   "channel": "Communities",
+   "text": "Patient groups in Australia say diagnosis delay is the main barrier. Can we learn from Takeda's work elsewhere?",
+   "synthetic": true
+  },
+  {
+   "id": "V214",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "Austria",
+   "layer": "Function / country",
+   "channel": "Communities",
+   "text": "In the last launch, the Austria patient pathway was mapped after launch instead of before.",
+   "synthetic": true
+  },
+  {
+   "id": "V215",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "Japan",
+   "layer": "Global function",
+   "channel": "Communities",
+   "text": "Primary-care colleagues in Japan rarely refer patients for a sleep study. Has anyone tested a referral approach?",
+   "synthetic": true
+  },
+  {
+   "id": "V216",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "US",
+   "layer": "Project team",
+   "channel": "Communities",
+   "text": "The US team wants a diagnosis awareness campaign. Which country has evidence on what shortened the patient pathway?",
+   "synthetic": true
+  },
+  {
+   "id": "V217",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "China",
+   "layer": "Regional leader",
+   "channel": "Communities",
+   "text": "Patients in China wait years to reach specialist care; each country seems to map this patient pathway alone.",
+   "synthetic": true
+  },
+  {
+   "id": "V218",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "EU",
+   "layer": "Site / frontline",
+   "channel": "Communities",
+   "text": "Patients with narcolepsy in EU take years to reach a sleep study. Has another country mapped the referral path?",
+   "synthetic": true
+  },
+  {
+   "id": "V219",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "India",
+   "layer": "Function / country",
+   "channel": "Communities",
+   "text": "In India many people are misdiagnosed with depression before narcolepsy. Who has worked on earlier diagnosis?",
+   "synthetic": true
+  },
+  {
+   "id": "V220",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "Brazil",
+   "layer": "Global function",
+   "channel": "Communities",
+   "text": "Our Brazil access plan assumes patients are diagnosed, but the referral from primary care is the real gap.",
+   "synthetic": true
+  },
+  {
+   "id": "V221",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "Australia",
+   "layer": "Regional leader",
+   "channel": "Project forum",
+   "text": "Screening for polycythemia vera in Australia depends on routine blood tests. Who knows how patients reach a hematologist?",
+   "synthetic": true
+  },
+  {
+   "id": "V222",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "Austria",
+   "layer": "Site / frontline",
+   "channel": "Project forum",
+   "text": "Patient groups in Austria say diagnosis delay is the main barrier. Can we learn from Takeda's work elsewhere?",
+   "synthetic": true
+  },
+  {
+   "id": "V223",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "Japan",
+   "layer": "Function / country",
+   "channel": "Project forum",
+   "text": "In the last launch, the Japan patient pathway was mapped after launch instead of before.",
+   "synthetic": true
+  },
+  {
+   "id": "V224",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "US",
+   "layer": "Global function",
+   "channel": "Project forum",
+   "text": "Primary-care colleagues in US rarely refer patients for a sleep study. Has anyone tested a referral approach?",
+   "synthetic": true
+  },
+  {
+   "id": "V225",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "China",
+   "layer": "Project team",
+   "channel": "Project forum",
+   "text": "The China team wants a diagnosis awareness campaign. Which country has evidence on what shortened the patient pathway?",
+   "synthetic": true
+  },
+  {
+   "id": "V226",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "EU",
+   "layer": "Regional leader",
+   "channel": "Project forum",
+   "text": "Patients in EU wait years to reach specialist care; each country seems to map this patient pathway alone.",
+   "synthetic": true
+  },
+  {
+   "id": "V227",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "India",
+   "layer": "Site / frontline",
+   "channel": "Project forum",
+   "text": "Patients with narcolepsy in India take years to reach a sleep study. Has another country mapped the referral path?",
+   "synthetic": true
+  },
+  {
+   "id": "V228",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "Brazil",
+   "layer": "Function / country",
+   "channel": "Project forum",
+   "text": "In Brazil many people are misdiagnosed with depression before narcolepsy. Who has worked on earlier diagnosis?",
+   "synthetic": true
+  },
+  {
+   "id": "V229",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "Singapore",
+   "layer": "Global function",
+   "channel": "Project forum",
+   "text": "Our Singapore access plan assumes patients are diagnosed, but the referral from primary care is the real gap.",
+   "synthetic": true
+  },
+  {
+   "id": "V230",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "Germany",
+   "layer": "Project team",
+   "channel": "Project forum",
+   "text": "We are drawing a patient journey for Germany from scratch. Did any first-launch country already build one?",
+   "synthetic": true
+  },
+  {
+   "id": "V231",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Site huddle",
+   "text": "Patient groups in Japan say diagnosis delay is the main barrier. Can we learn from Takeda's work elsewhere?",
+   "synthetic": true
+  },
+  {
+   "id": "V232",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Site huddle",
+   "text": "In the last launch, the US patient pathway was mapped after launch instead of before.",
+   "synthetic": true
+  },
+  {
+   "id": "V233",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "China",
+   "layer": "Global function",
+   "channel": "Site huddle",
+   "text": "Primary-care colleagues in China rarely refer patients for a sleep study. Has anyone tested a referral approach?",
+   "synthetic": true
+  },
+  {
+   "id": "V234",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "EU",
+   "layer": "Project team",
+   "channel": "Site huddle",
+   "text": "The EU team wants a diagnosis awareness campaign. Which country has evidence on what shortened the patient pathway?",
+   "synthetic": true
+  },
+  {
+   "id": "V235",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "India",
+   "layer": "Regional leader",
+   "channel": "Site huddle",
+   "text": "Patients in India wait years to reach specialist care; each country seems to map this patient pathway alone.",
+   "synthetic": true
+  },
+  {
+   "id": "V236",
+   "theme": "diagnosis",
+   "function": "Market Access",
+   "market": "Brazil",
+   "layer": "Site / frontline",
+   "channel": "Site huddle",
+   "text": "Patients with narcolepsy in Brazil take years to reach a sleep study. Has another country mapped the referral path?",
+   "synthetic": true
+  },
+  {
+   "id": "V237",
+   "theme": "diagnosis",
+   "function": "Medical",
+   "market": "Singapore",
+   "layer": "Function / country",
+   "channel": "Site huddle",
+   "text": "In Singapore many people are misdiagnosed with depression before narcolepsy. Who has worked on earlier diagnosis?",
+   "synthetic": true
+  },
+  {
+   "id": "V238",
+   "theme": "diagnosis",
+   "function": "Patient Engagement",
+   "market": "Germany",
+   "layer": "Global function",
+   "channel": "Site huddle",
+   "text": "Our Germany access plan assumes patients are diagnosed, but the referral from primary care is the real gap.",
+   "synthetic": true
+  },
+  {
+   "id": "V239",
+   "theme": "diagnosis",
+   "function": "Country Operations",
+   "market": "Australia",
+   "layer": "Project team",
+   "channel": "Site huddle",
+   "text": "We are drawing a patient journey for Australia from scratch. Did any first-launch country already build one?",
+   "synthetic": true
+  },
+  {
+   "id": "V240",
+   "theme": "diagnosis",
+   "function": "Medical Affairs",
+   "market": "Austria",
+   "layer": "Regional leader",
+   "channel": "Site huddle",
+   "text": "Screening for polycythemia vera in Austria depends on routine blood tests. Who knows how patients reach a hematologist?",
+   "synthetic": true
+  },
+  {
+   "id": "V241",
+   "theme": "people",
+   "function": "HR",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Town hall",
+   "text": "I inherited a HR project in Japan and nobody can tell me why we decided the current approach.",
+   "synthetic": true
+  },
+  {
+   "id": "V242",
+   "theme": "people",
+   "function": "Finance",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Town hall",
+   "text": "My predecessor in Finance (US) moved on and the reasoning behind three key choices left with them.",
+   "synthetic": true
+  },
+  {
+   "id": "V243",
+   "theme": "people",
+   "function": "Regulatory",
+   "market": "China",
+   "layer": "Global function",
+   "channel": "Town hall",
+   "text": "When someone in Regulatory in China changes role, the handover is a file list, not the decisions and who knew what.",
+   "synthetic": true
+  },
+  {
+   "id": "V244",
+   "theme": "people",
+   "function": "R&D",
+   "market": "EU",
+   "layer": "Project team",
+   "channel": "Town hall",
+   "text": "New role in R&D, EU: I spent weeks finding who knew the history of a process before I could act.",
+   "synthetic": true
+  },
+  {
+   "id": "V245",
+   "theme": "people",
+   "function": "Quality",
+   "market": "India",
+   "layer": "Regional leader",
+   "channel": "Town hall",
+   "text": "Our Quality team in India lost the context of a past decision when two colleagues left the team in the same quarter.",
+   "synthetic": true
+  },
+  {
+   "id": "V246",
+   "theme": "people",
+   "function": "Country Operations",
+   "market": "Brazil",
+   "layer": "Site / frontline",
+   "channel": "Town hall",
+   "text": "Onboarding in Country Operations (Brazil) explains tools, not why we decided things the way we did.",
+   "synthetic": true
+  },
+  {
+   "id": "V247",
+   "theme": "people",
+   "function": "DD&T",
+   "market": "Singapore",
+   "layer": "Function / country",
+   "channel": "Town hall",
+   "text": "After every role change in DD&T in Singapore, the same questions are reopened because the reasons were never recorded.",
+   "synthetic": true
+  },
+  {
+   "id": "V248",
+   "theme": "people",
+   "function": "HR",
+   "market": "Germany",
+   "layer": "Global function",
+   "channel": "Town hall",
+   "text": "Mentoring helps in HR (Germany), but it does not tell the next owner why we decided a past trade-off.",
+   "synthetic": true
+  },
+  {
+   "id": "V249",
+   "theme": "people",
+   "function": "Finance",
+   "market": "Australia",
+   "layer": "Project team",
+   "channel": "Town hall",
+   "text": "The Finance handover template in Australia asks for documents, not for the decisions and their conditions.",
+   "synthetic": true
+  },
+  {
+   "id": "V250",
+   "theme": "people",
+   "function": "Regulatory",
+   "market": "Austria",
+   "layer": "Regional leader",
+   "channel": "Town hall",
+   "text": "Shift leads in Austria moved on and the new role holder had to rediscover why the plant changed a procedure.",
+   "synthetic": true
+  },
+  {
+   "id": "V251",
+   "theme": "people",
+   "function": "Finance",
+   "market": "China",
+   "layer": "Function / country",
+   "channel": "Pulse survey",
+   "text": "My predecessor in Finance (China) moved on and the reasoning behind three key choices left with them.",
+   "synthetic": true
+  },
+  {
+   "id": "V252",
+   "theme": "people",
+   "function": "Regulatory",
+   "market": "EU",
+   "layer": "Global function",
+   "channel": "Pulse survey",
+   "text": "When someone in Regulatory in EU changes role, the handover is a file list, not the decisions and who knew what.",
+   "synthetic": true
+  },
+  {
+   "id": "V253",
+   "theme": "people",
+   "function": "R&D",
+   "market": "India",
+   "layer": "Project team",
+   "channel": "Pulse survey",
+   "text": "New role in R&D, India: I spent weeks finding who knew the history of a process before I could act.",
+   "synthetic": true
+  },
+  {
+   "id": "V254",
+   "theme": "people",
+   "function": "Quality",
+   "market": "Brazil",
+   "layer": "Regional leader",
+   "channel": "Pulse survey",
+   "text": "Our Quality team in Brazil lost the context of a past decision when two colleagues left the team in the same quarter.",
+   "synthetic": true
+  },
+  {
+   "id": "V255",
+   "theme": "people",
+   "function": "Country Operations",
+   "market": "Singapore",
+   "layer": "Site / frontline",
+   "channel": "Pulse survey",
+   "text": "Onboarding in Country Operations (Singapore) explains tools, not why we decided things the way we did.",
+   "synthetic": true
+  },
+  {
+   "id": "V256",
+   "theme": "people",
+   "function": "DD&T",
+   "market": "Germany",
+   "layer": "Function / country",
+   "channel": "Pulse survey",
+   "text": "After every role change in DD&T in Germany, the same questions are reopened because the reasons were never recorded.",
+   "synthetic": true
+  },
+  {
+   "id": "V257",
+   "theme": "people",
+   "function": "HR",
+   "market": "Australia",
+   "layer": "Global function",
+   "channel": "Pulse survey",
+   "text": "Mentoring helps in HR (Australia), but it does not tell the next owner why we decided a past trade-off.",
+   "synthetic": true
+  },
+  {
+   "id": "V258",
+   "theme": "people",
+   "function": "Finance",
+   "market": "Austria",
+   "layer": "Project team",
+   "channel": "Pulse survey",
+   "text": "The Finance handover template in Austria asks for documents, not for the decisions and their conditions.",
+   "synthetic": true
+  },
+  {
+   "id": "V259",
+   "theme": "people",
+   "function": "Regulatory",
+   "market": "Japan",
+   "layer": "Regional leader",
+   "channel": "Pulse survey",
+   "text": "Shift leads in Japan moved on and the new role holder had to rediscover why the plant changed a procedure.",
+   "synthetic": true
+  },
+  {
+   "id": "V260",
+   "theme": "people",
+   "function": "R&D",
+   "market": "US",
+   "layer": "Site / frontline",
+   "channel": "Pulse survey",
+   "text": "I inherited a R&D project in US and nobody can tell me why we decided the current approach.",
+   "synthetic": true
+  },
+  {
+   "id": "V261",
+   "theme": "people",
+   "function": "Regulatory",
+   "market": "India",
+   "layer": "Global function",
+   "channel": "Launch retrospective",
+   "text": "When someone in Regulatory in India changes role, the handover is a file list, not the decisions and who knew what.",
+   "synthetic": true
+  },
+  {
+   "id": "V262",
+   "theme": "people",
+   "function": "R&D",
+   "market": "Brazil",
+   "layer": "Project team",
+   "channel": "Launch retrospective",
+   "text": "New role in R&D, Brazil: I spent weeks finding who knew the history of a process before I could act.",
+   "synthetic": true
+  },
+  {
+   "id": "V263",
+   "theme": "people",
+   "function": "Quality",
+   "market": "Singapore",
+   "layer": "Regional leader",
+   "channel": "Launch retrospective",
+   "text": "Our Quality team in Singapore lost the context of a past decision when two colleagues left the team in the same quarter.",
+   "synthetic": true
+  },
+  {
+   "id": "V264",
+   "theme": "people",
+   "function": "Country Operations",
+   "market": "Germany",
+   "layer": "Site / frontline",
+   "channel": "Launch retrospective",
+   "text": "Onboarding in Country Operations (Germany) explains tools, not why we decided things the way we did.",
+   "synthetic": true
+  },
+  {
+   "id": "V265",
+   "theme": "people",
+   "function": "DD&T",
+   "market": "Australia",
+   "layer": "Function / country",
+   "channel": "Launch retrospective",
+   "text": "After every role change in DD&T in Australia, the same questions are reopened because the reasons were never recorded.",
+   "synthetic": true
+  },
+  {
+   "id": "V266",
+   "theme": "people",
+   "function": "HR",
+   "market": "Austria",
+   "layer": "Global function",
+   "channel": "Launch retrospective",
+   "text": "Mentoring helps in HR (Austria), but it does not tell the next owner why we decided a past trade-off.",
+   "synthetic": true
+  },
+  {
+   "id": "V267",
+   "theme": "people",
+   "function": "Finance",
+   "market": "Japan",
+   "layer": "Project team",
+   "channel": "Launch retrospective",
+   "text": "The Finance handover template in Japan asks for documents, not for the decisions and their conditions.",
+   "synthetic": true
+  },
+  {
+   "id": "V268",
+   "theme": "people",
+   "function": "Regulatory",
+   "market": "US",
+   "layer": "Regional leader",
+   "channel": "Launch retrospective",
+   "text": "Shift leads in US moved on and the new role holder had to rediscover why the plant changed a procedure.",
+   "synthetic": true
+  },
+  {
+   "id": "V269",
+   "theme": "people",
+   "function": "R&D",
+   "market": "China",
+   "layer": "Site / frontline",
+   "channel": "Launch retrospective",
+   "text": "I inherited a R&D project in China and nobody can tell me why we decided the current approach.",
+   "synthetic": true
+  },
+  {
+   "id": "V270",
+   "theme": "people",
+   "function": "Quality",
+   "market": "EU",
+   "layer": "Function / country",
+   "channel": "Launch retrospective",
+   "text": "My predecessor in Quality (EU) moved on and the reasoning behind three key choices left with them.",
+   "synthetic": true
+  },
+  {
+   "id": "V271",
+   "theme": "people",
+   "function": "R&D",
+   "market": "Singapore",
+   "layer": "Project team",
+   "channel": "Communities",
+   "text": "New role in R&D, Singapore: I spent weeks finding who knew the history of a process before I could act.",
+   "synthetic": true
+  },
+  {
+   "id": "V272",
+   "theme": "people",
+   "function": "Quality",
+   "market": "Germany",
+   "layer": "Regional leader",
+   "channel": "Communities",
+   "text": "Our Quality team in Germany lost the context of a past decision when two colleagues left the team in the same quarter.",
+   "synthetic": true
+  },
+  {
+   "id": "V273",
+   "theme": "people",
+   "function": "Country Operations",
+   "market": "Australia",
+   "layer": "Site / frontline",
+   "channel": "Communities",
+   "text": "Onboarding in Country Operations (Australia) explains tools, not why we decided things the way we did.",
+   "synthetic": true
+  },
+  {
+   "id": "V274",
+   "theme": "people",
+   "function": "DD&T",
+   "market": "Austria",
+   "layer": "Function / country",
+   "channel": "Communities",
+   "text": "After every role change in DD&T in Austria, the same questions are reopened because the reasons were never recorded.",
+   "synthetic": true
+  },
+  {
+   "id": "V275",
+   "theme": "people",
+   "function": "HR",
+   "market": "Japan",
+   "layer": "Global function",
+   "channel": "Communities",
+   "text": "Mentoring helps in HR (Japan), but it does not tell the next owner why we decided a past trade-off.",
+   "synthetic": true
+  },
+  {
+   "id": "V276",
+   "theme": "people",
+   "function": "Finance",
+   "market": "US",
+   "layer": "Project team",
+   "channel": "Communities",
+   "text": "The Finance handover template in US asks for documents, not for the decisions and their conditions.",
+   "synthetic": true
+  },
+  {
+   "id": "V277",
+   "theme": "people",
+   "function": "Regulatory",
+   "market": "China",
+   "layer": "Regional leader",
+   "channel": "Communities",
+   "text": "Shift leads in China moved on and the new role holder had to rediscover why the plant changed a procedure.",
+   "synthetic": true
+  },
+  {
+   "id": "V278",
+   "theme": "people",
+   "function": "R&D",
+   "market": "EU",
+   "layer": "Site / frontline",
+   "channel": "Communities",
+   "text": "I inherited a R&D project in EU and nobody can tell me why we decided the current approach.",
+   "synthetic": true
+  },
+  {
+   "id": "V279",
+   "theme": "people",
+   "function": "Quality",
+   "market": "India",
+   "layer": "Function / country",
+   "channel": "Communities",
+   "text": "My predecessor in Quality (India) moved on and the reasoning behind three key choices left with them.",
+   "synthetic": true
+  },
+  {
+   "id": "V280",
+   "theme": "people",
+   "function": "Country Operations",
+   "market": "Brazil",
+   "layer": "Global function",
+   "channel": "Communities",
+   "text": "When someone in Country Operations in Brazil changes role, the handover is a file list, not the decisions and who knew what.",
+   "synthetic": true
+  },
+  {
+   "id": "V281",
+   "theme": "people",
+   "function": "Quality",
+   "market": "Australia",
+   "layer": "Regional leader",
+   "channel": "Project forum",
+   "text": "Our Quality team in Australia lost the context of a past decision when two colleagues left the team in the same quarter.",
+   "synthetic": true
+  },
+  {
+   "id": "V282",
+   "theme": "people",
+   "function": "Country Operations",
+   "market": "Austria",
+   "layer": "Site / frontline",
+   "channel": "Project forum",
+   "text": "Onboarding in Country Operations (Austria) explains tools, not why we decided things the way we did.",
+   "synthetic": true
+  },
+  {
+   "id": "V283",
+   "theme": "people",
+   "function": "DD&T",
+   "market": "Japan",
+   "layer": "Function / country",
+   "channel": "Project forum",
+   "text": "After every role change in DD&T in Japan, the same questions are reopened because the reasons were never recorded.",
+   "synthetic": true
+  },
+  {
+   "id": "V284",
+   "theme": "people",
+   "function": "HR",
+   "market": "US",
+   "layer": "Global function",
+   "channel": "Project forum",
+   "text": "Mentoring helps in HR (US), but it does not tell the next owner why we decided a past trade-off.",
+   "synthetic": true
+  },
+  {
+   "id": "V285",
+   "theme": "people",
+   "function": "Finance",
+   "market": "China",
+   "layer": "Project team",
+   "channel": "Project forum",
+   "text": "The Finance handover template in China asks for documents, not for the decisions and their conditions.",
+   "synthetic": true
+  },
+  {
+   "id": "V286",
+   "theme": "people",
+   "function": "Regulatory",
+   "market": "EU",
+   "layer": "Regional leader",
+   "channel": "Project forum",
+   "text": "Shift leads in EU moved on and the new role holder had to rediscover why the plant changed a procedure.",
+   "synthetic": true
+  },
+  {
+   "id": "V287",
+   "theme": "people",
+   "function": "R&D",
+   "market": "India",
+   "layer": "Site / frontline",
+   "channel": "Project forum",
+   "text": "I inherited a R&D project in India and nobody can tell me why we decided the current approach.",
+   "synthetic": true
+  },
+  {
+   "id": "V288",
+   "theme": "people",
+   "function": "Quality",
+   "market": "Brazil",
+   "layer": "Function / country",
+   "channel": "Project forum",
+   "text": "My predecessor in Quality (Brazil) moved on and the reasoning behind three key choices left with them.",
+   "synthetic": true
+  },
+  {
+   "id": "V289",
+   "theme": "people",
+   "function": "Country Operations",
+   "market": "Singapore",
+   "layer": "Global function",
+   "channel": "Project forum",
+   "text": "When someone in Country Operations in Singapore changes role, the handover is a file list, not the decisions and who knew what.",
+   "synthetic": true
+  },
+  {
+   "id": "V290",
+   "theme": "people",
+   "function": "DD&T",
+   "market": "Germany",
+   "layer": "Project team",
+   "channel": "Project forum",
+   "text": "New role in DD&T, Germany: I spent weeks finding who knew the history of a process before I could act.",
+   "synthetic": true
+  },
+  {
+   "id": "V291",
+   "theme": "people",
+   "function": "Country Operations",
+   "market": "Japan",
+   "layer": "Site / frontline",
+   "channel": "Site huddle",
+   "text": "Onboarding in Country Operations (Japan) explains tools, not why we decided things the way we did.",
+   "synthetic": true
+  },
+  {
+   "id": "V292",
+   "theme": "people",
+   "function": "DD&T",
+   "market": "US",
+   "layer": "Function / country",
+   "channel": "Site huddle",
+   "text": "After every role change in DD&T in US, the same questions are reopened because the reasons were never recorded.",
+   "synthetic": true
+  },
+  {
+   "id": "V293",
+   "theme": "people",
+   "function": "HR",
+   "market": "China",
+   "layer": "Global function",
+   "channel": "Site huddle",
+   "text": "Mentoring helps in HR (China), but it does not tell the next owner why we decided a past trade-off.",
+   "synthetic": true
+  },
+  {
+   "id": "V294",
+   "theme": "people",
+   "function": "Finance",
+   "market": "EU",
+   "layer": "Project team",
+   "channel": "Site huddle",
+   "text": "The Finance handover template in EU asks for documents, not for the decisions and their conditions.",
+   "synthetic": true
+  },
+  {
+   "id": "V295",
+   "theme": "people",
+   "function": "Regulatory",
+   "market": "India",
+   "layer": "Regional leader",
+   "channel": "Site huddle",
+   "text": "Shift leads in India moved on and the new role holder had to rediscover why the plant changed a procedure.",
+   "synthetic": true
+  },
+  {
+   "id": "V296",
+   "theme": "people",
+   "function": "R&D",
+   "market": "Brazil",
+   "layer": "Site / frontline",
+   "channel": "Site huddle",
+   "text": "I inherited a R&D project in Brazil and nobody can tell me why we decided the current approach.",
+   "synthetic": true
+  },
+  {
+   "id": "V297",
+   "theme": "people",
+   "function": "Quality",
+   "market": "Singapore",
+   "layer": "Function / country",
+   "channel": "Site huddle",
+   "text": "My predecessor in Quality (Singapore) moved on and the reasoning behind three key choices left with them.",
+   "synthetic": true
+  },
+  {
+   "id": "V298",
+   "theme": "people",
+   "function": "Country Operations",
+   "market": "Germany",
+   "layer": "Global function",
+   "channel": "Site huddle",
+   "text": "When someone in Country Operations in Germany changes role, the handover is a file list, not the decisions and who knew what.",
+   "synthetic": true
+  },
+  {
+   "id": "V299",
+   "theme": "people",
+   "function": "DD&T",
+   "market": "Australia",
+   "layer": "Project team",
+   "channel": "Site huddle",
+   "text": "New role in DD&T, Australia: I spent weeks finding who knew the history of a process before I could act.",
+   "synthetic": true
+  },
+  {
+   "id": "V300",
+   "theme": "people",
+   "function": "HR",
+   "market": "Austria",
+   "layer": "Regional leader",
+   "channel": "Site huddle",
+   "text": "Our HR team in Austria lost the context of a past decision when two colleagues left the team in the same quarter.",
+   "synthetic": true
+  }
+ ]
+}

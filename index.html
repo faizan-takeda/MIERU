@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#f7f7f8"><meta name="description" content="MIERU · Enterprise knowledge, voice clustering, evidence-based launch alignment and decision memory"><title>MIERU · One enterprise, shared knowledge</title><link rel="icon" href="./assets/takeda_logo.png"><link rel="stylesheet" href="./css/app.css"></head>
+<body>
+<a class="skip" href="#content">Skip to main content</a>
+<div class="app-shell">
+<header class="header">
+ <div class="brand" aria-label="MIERU by Takeda"><img src="./assets/takeda_logo.png" alt="Takeda"><span class="brand-mark">MIERU <small>見える</small></span><span class="brand-note">ENTERPRISE ORIENTATION</span></div>
+ <div class="header-right"><div class="version-pill"><span class="pulse"></span><span id="live-indicator">Public evidence pilot</span></div><button class="button subtle small" id="open-library">↗ Evidence library</button></div>
+</header>
+<nav class="top-nav" aria-label="Main sections">
+ <button class="navtab selected" data-page="ask" aria-current="page"><span class="nav-number">01</span><span>Ask MIERU</span></button>
+ <button class="navtab" data-page="voice"><span class="nav-number">02</span><span>Find shared challenges</span></button>
+ <button class="navtab" data-page="align"><span class="nav-number">03</span><span>Align before launch</span></button>
+ <button class="navtab" data-page="learn"><span class="nav-number">04</span><span>Save the learning</span></button>
+ <div class="nav-end" id="asof">As of October 16, 2026</div>
+</nav>
+<main id="content"><section id="page-ask" class="page active" aria-label="Ask MIERU">
+ <div class="hero ask-hero"><div class="hero-copy"><div class="eyebrow"><span class="eyebrow-dot"></span> ACCESSIBLE TO EVERY FUNCTION</div><h1>What Takeda knows.<br><span class="red-text">Within your reach.</span></h1><p>Ask a real question. Find the evidence, the team to learn from, and—when it applies—a decision already recorded.</p></div>
+ <div class="hero-decoration" aria-hidden="true"><div class="orb o1"></div><div class="orb o2"></div><div class="orb o3"></div><div class="hero-cross">↗</div><span class="decor-label a">VOICE</span><span class="decor-label b">EVIDENCE</span><span class="decor-label c">DECISION</span></div></div>
+ <div class="ask-pad"><form id="ask-form" class="search-wrap"><span class="search-icon">⌕</span><label class="sr" for="question">Ask any Takeda-related question</label><input id="question" required maxlength="400" autocomplete="off" placeholder="Has another Takeda site already tried VR cleanroom training?"><button class="button primary" type="submit" id="ask-button">Ask MIERU <span>↗</span></button></form>
+ <div class="ask-controls"><label class="toggle-line"><input id="enable-web" type="checkbox" disabled aria-describedby="web-info"><span>Live public web research (requires a server)</span></label><span class="helper" id="web-info">All reviewed local questions and references work without an API key</span></div>
+ <details id="role-explorer" class="role-explorer">
+ <summary class="button secondary small role-explorer-toggle"><span class="role-explorer-show">Show Example questions</span><span class="role-explorer-hide">Hide role questions</span></summary>
+ <div class="section-label"><h2>Explore questions for your role</h2><span>Up to 6 source-linked questions per team</span></div>
+ <div id="roles" class="role-rail" role="group" aria-label="Select functional perspective"></div>
+ <div id="questions" class="question-grid"></div>
+ </details>
+ <div class="results-wrap" id="results-wrap"><div id="result" aria-live="polite"></div></div>
+ </div>
+ </section>
+<section id="page-voice" class="page" aria-label="Find shared enterprise challenges">
+ <div class="page-intro voice-intro"><div><div class="eyebrow"><span class="eyebrow-dot"></span>02 / MAKE EVERY LAYER VISIBLE</div><h1>Many conversations.<br><span class="red-text">One enterprise picture.</span></h1><p>Watch scattered ideas and frictions find one another. Then see where documented Takeda work gives a team somewhere to start.</p></div><div class="intro-side"><b>300</b><span>illustrative signals</span><small>Synthetic story, not actual employee testimony</small></div></div>
+ <div class="voice-body enhanced-voice"><div class="experience-intro"><div><span class="tiny-label">FROM VOICES TO ACTION</span><h2>See the connection happen</h2><p>Hover any dot to read a voice. Watch common challenges emerge across functions and locations.</p></div><div class="experience-actions"><button class="button secondary small" id="voice-replay" type="button">↻ Replay</button><button class="button primary" id="cluster-button" type="button">Connect 300 voices <span>↗</span></button></div></div>
+ <div class="constellation-wrap" id="constellation-wrap">
+  <div class="constellation-top"><span id="phase-label"><span class="status-light"></span>01 · Scattered across six listening channels</span><span class="stage-key">● Every dot is one illustrative voice <span class="stage-key-dot"></span> <span>Green = a published practice to investigate</span></span></div>
+  <canvas id="voice-canvas" role="img" aria-label="Interactive visualization of 300 synthetic voices. Hover any signal dot before or after the animated clustering to read its text. Six origin channels form five shared challenges. Green halos denote published methods to investigate, not solved cases."></canvas>
+  <div class="constellation-bottom"><span id="voice-storyline">Select a listening channel to read the illustrative voices.</span><span class="stage-hint">Hover a dot to read it</span></div>
+  <div id="voice-hover" class="constellation-hover" hidden></div>
+ </div>
+ <div class="voice-under" id="voice-under"><div class="section-label"><h2>Where the signals originated</h2><span>Six distinct channels · click an illustration to browse its voices</span></div><div id="voice-sources" class="source-strip enhanced-sources"></div></div>
+ <div class="voice-discover" id="voice-discover"><div class="section-label"><h2>Five shared challenges</h2><span>Each theme spans more than one channel · select to inspect</span></div><div id="voice-clusters" class="cluster-grid enhanced-clusters"></div></div>
+ <div class="voice-proof" id="voice-proof" aria-live="polite"></div>
+ <p class="stage-disclaimer">Clustering is a deterministic demonstration on designed synthetic text. Public precedents are Takeda-reported initiatives; potential transfer, benefit and actual resolution require verification by accountable owners.</p>
+ </div>
+</section>
+<section id="page-align" class="page" aria-label="Align next launch">
+ <div class="page-intro compact"><div><div class="eyebrow">03 / ALIGN BEFORE WE COMMISSION</div><h1>Learn before<br><span class="red-text">building again.</span></h1><p>Pick one medicine and market. Review each launch element against actual public evidence, local differences and the next human check.</p></div><div class="intro-side light"><b>3 × 4</b><span>medicine-market scenarios</span><small>Proposals only · no internal approvals implied</small></div></div>
+ <div class="workspace"><div class="selectors"><div class="select-box"><label for="drug-select">Medicine</label><select id="drug-select"><option value="oveporexton">ORZEYFUL · oveporexton</option><option value="rusfertide">MIMRYLO · rusfertide</option><option value="zasocitinib">Zasocitinib · TAK-279</option></select></div><div class="select-box"><label for="market-select">Target market</label><select id="market-select"><option value="US">United States</option><option value="Japan">Japan</option><option value="China">China</option><option value="EU">EU</option></select></div><div class="snapshot"><span>DOSSIER STATUS</span><strong id="reg-status">Loading …</strong><small id="reg-note"></small></div></div>
+ <div class="launch-layout"><div class="launch-main"><div class="launch-heading"><div><span class="tiny-label">7 DECISIONS TO REVIEW</span><h2>What should this market do differently?</h2></div><span class="legend-hint">Click any row to inspect its evidence</span></div><div id="matrix" class="decision-list"></div></div>
+ <aside class="inspector" id="inspector"><div class="inspector-empty">Select an element to see the evidence and validation gate.</div></aside></div>
+ </div>
+</section>
+<section id="page-learn" class="page" aria-label="Save a pilot decision">
+ <div class="page-intro compact"><div><div class="eyebrow">04 / FROM ACTION TO SHARED MEMORY</div><h1>A decision today.<br><span class="red-text">A head start tomorrow.</span></h1><p>Keep the reason, the boundaries and the evidence together. Another colleague can discover this history only when the question fits.</p></div><div class="intro-side light"><b>↗</b><span>human decision → memory</span><small>Saved examples are pilot rehearsals · never represented as actual approvals</small></div></div>
+ <div class="learning-layout"><div class="form-panel"><div class="form-heading"><span class="tiny-label">CAPTURE THE DECISION</span><h2 id="decision-context">Select a launch element</h2><p id="decision-intro">An option is only worth reusing when its conditions are visible.</p></div>
+ <form id="decision-form"><div class="form-grid"><label>Proposed route<select id="decision-route"><option>REUSE</option><option>ADAPT</option><option>COLLABORATE</option><option>VERIFY FIRST</option><option>LOCAL</option></select></label><label>Reviewing function / owner<input id="decision-owner" minlength="3" maxlength="100" required placeholder="e.g. US Medical + Legal"></label></div>
+ <label>Why this is the right starting point<textarea id="decision-reason" minlength="12" maxlength="700" required rows="3" placeholder="State what the public evidence actually establishes and what remains unknown."></textarea></label>
+ <label>Applicability conditions / gates<textarea id="decision-conditions" minlength="10" maxlength="500" required rows="3" placeholder="Specify which medicine, market, label, permission and review must match before any transfer."></textarea></label>
+ <div class="form-foot"><span>◉ Pilot rehearsal · unapproved until human governance</span><button class="button primary" type="submit">Save decision asset ↗</button></div></form><div id="save-feedback" aria-live="polite"></div></div>
+ <aside class="learning-side"><div class="small-head">LINKED TO A REAL REFERENCE</div><div id="decision-evidence"></div><div class="learning-arrow">↓</div><div class="memory-tile"><span class="tiny-label">ONLY WHEN RELEVANT</span><h3>It returns inside Ask MIERU</h3><p>A colleague in a different market can discover a related prior review as a conditional starting point—not a copied approval.</p><button class="button secondary" id="test-decision" type="button">Explore another market in Ask →</button></div></aside></div>
+<section class="memory-vault" aria-labelledby="vault-heading">
+ <div class="vault-heading"><div><span class="tiny-label">SAVED REHEARSALS · ALL MEDICINES × MARKETS</span><h2 id="vault-heading">Decision memory library <span id="vault-count"></span></h2><p>Inspect every bundled and newly saved decision, its original sources and applicability gates. Saved records remain unapproved rehearsals.</p></div><div class="vault-actions"><button type="button" class="button secondary small" id="vault-export">↓ Export JSON</button><label class="button secondary small vault-import" for="vault-import">↑ Import JSON</label><input type="file" id="vault-import" accept=".json,application/json" hidden></div></div>
+ <div class="vault-filters"><label>Medicine<select id="vault-product"><option value="">All medicines</option><option value="oveporexton">ORZEYFUL</option><option value="rusfertide">MIMRYLO</option><option value="zasocitinib">Zasocitinib</option></select></label><label>Market<select id="vault-market"><option value="">All markets</option><option value="US">US</option><option value="Japan">Japan</option><option value="China">China</option><option value="EU">EU</option></select></label><label class="vault-search-label">Find a decision<input id="vault-search" placeholder="Search route, topic, reviewer or rationale" autocomplete="off"></label></div>
+ <div id="vault-list" class="vault-list" aria-live="polite"></div><p class="vault-caveat">Browser-local memory: saves persist across refreshes in this browser only. Use Export/Import to share rehearsal records; GitHub Pages does not provide a shared team database. Do not save confidential information.</p>
+</section>
+</section>
+</main>
+<footer class="footer"><span>MIERU <b>見える</b> · Enterprise Orientation pilot</span><span>Public Takeda sources + synthetic demonstration + browser-local unapproved decisions. Not an enterprise data system.</span></footer>
+</div>
+<div class="overlay" id="drawer-overlay" hidden><div class="drawer" role="dialog" aria-modal="true" aria-labelledby="drawer-title"><div class="drawer-top"><div><span class="tiny-label">REVIEW THE EVIDENCE</span><h2 id="drawer-title">Source details</h2></div><button class="icon-button" id="drawer-close" aria-label="Close details">✕</button></div><div class="drawer-content" id="drawer-content"></div></div></div>
+<script defer src="./data/bundle.js"></script>
+<script defer src="./js/domain.js"></script>
+<script defer src="./js/staticApi.js"></script>
+<script defer src="./js/constellation.js"></script><script defer src="./vendor/markdown-it.min.js"></script><script defer src="./js/researchMarkdown.js"></script><script defer src="./js/app.js"></script>
+</body></html>

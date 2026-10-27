@@ -1,0 +1,164 @@
+[
+ {
+  "id": "site",
+  "icon": "⌘",
+  "short": "Takeda sites repeat work done elsewhere",
+    "name": "Takeda sites repeat work done elsewhere",
+    "why": "Teams face similar problems with equipment breakdowns, slow batch release and cleanroom training. They may start from scratch without knowing what another Takeda site has already learned.",
+  "pattern": "Takeda has published three network programmes for exactly these problems: AI predictive maintenance at Lessines (170+ agents across 45 systems, extension to 20 sites planned by FY2027), VR/AR operator training at 13 sterile-filling sites, and One Day Batch Release piloted at six sites.",
+  "sources": [
+   "LESSINES_AI",
+   "VRSITES",
+   "BATCH"
+  ],
+  "state": "Published Takeda programmes exist for this problem. They are not proof that the 60 illustrative voices are solved, or that a given plant is in scope or qualified.",
+  "route": "Name the programme owner (Digital Manufacturing, GSQ operator training or One Day Batch Release), ask whether your plant is in scope, and confirm the qualification it still needs.",
+  "lex": [
+   "equipment stopped",
+   "predictive maintenance",
+   "batch release",
+   "release record",
+   "cleanroom training",
+   "operator training",
+   "unplanned stop",
+   "line downtime",
+   "gowning",
+   "maintenance log",
+   "pump failure",
+   "new operators"
+  ],
+  "precedent": "documented",
+  "proofMetric": "3 programmes",
+  "proofType": "Published site-to-network programmes",
+  "proofLabel": "Published method, validate local fit"
+ },
+ {
+  "id": "ai",
+  "icon": "✦",
+  "short": "AI tools built twice",
+  "name": "Teams build their own AI tools instead of using what Takeda already offers",
+  "why": "Colleagues in Legal, Finance, Commercial, R&D and plants describe building or buying separate AI helpers, unsure which tool is allowed, what data it may see and who must review it.",
+  "pattern": "Takeda reports 63% of employees actively using generative-AI tools (2026), an internal assistant, myAibou, designed to see only what the user types, and a Responsible AI framework with assessments run together with Ethics & Compliance.",
+  "sources": [
+   "AIR_PEOPLE",
+   "MYAIBOU",
+   "RAI_FRAMEWORK",
+   "RAI_ASSESS"
+  ],
+  "state": "An enterprise assistant and a Responsible AI assessment route are published. Whether a specific team's need is covered still requires DD&T and Ethics & Compliance review.",
+  "route": "Before building, check the approved enterprise assistant, then run a Responsible AI and privacy impact assessment with DD&T and Ethics & Compliance.",
+  "lex": [
+   "ai tool",
+   "chatbot",
+   "genai",
+   "generative ai",
+   "ai assistant",
+   "copilot",
+   "prompt",
+   "ai model",
+   "approved ai",
+   "responsible ai",
+   "gpt"
+  ],
+  "precedent": "documented",
+  "proofMetric": "63% use GenAI",
+  "proofType": "Enterprise AI assistant and governance",
+  "proofLabel": "Published route, confirm your use case"
+ },
+ {
+  "id": "hcp",
+  "icon": "◎",
+  "short": "Doctor education re-learned",
+  "name": "Each launch country re-learns how to educate doctors about a new medicine",
+  "why": "Medical and field teams in each next market ask how to explain a first-in-class medicine, which materials are approved and what the first countries learned — and often start again.",
+  "pattern": "ORZEYFUL became available in Japan and China on the same day, 15 October 2026, and Japan publishes a data-driven model for HCP information. The clinical evidence is shared; approved claims and populations differ by country.",
+  "sources": [
+   "OCT_LAUNCH",
+   "DX",
+   "O_EDU",
+   "IMED"
+  ],
+  "state": "Related public work exists. No approved cross-country education asset is published, and claims cannot travel between labels.",
+  "route": "Ask the first-launch Medical teams which physician questions came up, then let Medical and Legal in the receiving country review label, audience and claims.",
+  "lex": [
+   "physician",
+   "physicians",
+   "doctors",
+   "prescriber",
+   "medical education",
+   "scientific exchange",
+   "msl",
+   "slide deck",
+   "speaker programme",
+   "hcp"
+  ],
+  "precedent": "investigate",
+  "proofMetric": "",
+  "proofType": "Related public work",
+  "proofLabel": "Related work only — no proven fit"
+ },
+ {
+  "id": "diagnosis",
+  "icon": "◇",
+  "short": "Slow diagnosis, mapped alone",
+  "name": "Patients wait too long for a diagnosis, and each country maps the referral path alone",
+  "why": "Access and Medical teams describe the same barrier — patients move between doctors for years before reaching the right specialist — yet each country builds its own patient-pathway map.",
+  "pattern": "Takeda's 2026 report lists disease awareness, screening and diagnosis among the access barriers it works on, and a 2026 Takeda account describes physician experience with narcolepsy type 1. No shared cross-country referral map is published.",
+  "sources": [
+   "AIR_ACCESS",
+   "PATIENT_NT1",
+   "PEOPLE",
+   "ACCESS2026"
+  ],
+  "state": "Takeda publishes the ambition and disease context, not a product-specific referral pathway for any country.",
+  "route": "Medical, Market Access and patient-group leads compare pathway maps from first-launch countries before commissioning a new one.",
+  "lex": [
+   "diagnosis",
+   "diagnosed",
+   "referral",
+   "misdiagnosed",
+   "patient journey",
+   "sleep study",
+   "screening",
+   "patient pathway",
+   "years to reach"
+  ],
+  "precedent": "investigate",
+  "proofMetric": "",
+  "proofType": "Related public work",
+  "proofLabel": "Related work only — no proven fit"
+ },
+ {
+  "id": "people",
+  "icon": "↗",
+  "short": "Know-how leaves with people",
+  "name": "Know-how and the reasons behind decisions leave when people change roles",
+  "why": "Across functions, colleagues inherit work without the 'why': past decisions, who to ask and what was already tried disappear when someone moves on.",
+  "pattern": "Takeda documents mentoring, Career Navigator, over 2,000 values ambassadors and HR digital agents used by about 60% of employees with a Takeda device. None of these records the reasoning behind a past decision.",
+  "sources": [
+   "MENTOR2025",
+   "PEOPLE_MENTOR",
+   "CAREERS",
+   "HR_AGENTS",
+   "AIR_PEOPLE"
+  ],
+  "state": "Learning and mentoring are documented; a shared record of decision reasoning is not. This is the gap MIERU's decision memory proposes to fill.",
+  "route": "HR and functional leads pilot a one-page decision-handover record at real role changes and measure whether the next owner reopens the same question.",
+  "lex": [
+   "handover",
+   "predecessor",
+   "moved on",
+   "left the team",
+   "new role",
+   "inherited",
+   "role change",
+   "why we decided",
+   "who knew",
+   "onboarding"
+  ],
+  "precedent": "investigate",
+  "proofMetric": "",
+  "proofType": "Related public work",
+  "proofLabel": "Related work only — no proven fit"
+ }
+]
